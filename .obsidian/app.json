@@ -1,0 +1,11 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "spellcheckLanguages": [
+    "pt-BR",
+    "en-US"
+  ],
+  "newFileLocation": "current"
+}

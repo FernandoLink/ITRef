@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "9b5a294ef29b357f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b0efa7f14c75b31",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IT.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "7e1f12e19a5bc0dd"
+      },
+      {
+        "id": "51931112eac6142f",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "IT.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": false,
+              "showArrow": true,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": true
+            }
+          }
+        },
+        "group": "7e1f12e19a5bc0dd"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "359d26c0faa899fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "db703807788290e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64dfed356013bca9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "16140a574593238a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Commandos",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "939f913479fc358e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2be5c3f1fb914ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f712a9bb231fbbbc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "51931112eac6142f",
+  "lastOpenFiles": [
+    "IT.md",
+    "Utilitários/Utilitários.md",
+    "Utilitários/Expressões Regulares.md",
+    "Utilitários/Diferenças.md",
+    "Utilitários/Precedência.md",
+    "Utilitários/Remendos.md",
+    "Utilitários/POSIX.md",
+    "Utilitários/Modernosos.md",
+    "Utilitários/Barra-letras.md",
+    "Utilitários/Resumão.md"
+  ]
+}

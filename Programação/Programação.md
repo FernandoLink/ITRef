@@ -1,0 +1,7 @@
+* [[Compiladores]]
+* [[Algoritmos]]
+* [[Linguagens]]
+* [[Business Intelligence]]
+* [[Cientista de Dados]]
+* [[Inteligência Artificial]]
+* [[Machine Learning]]
