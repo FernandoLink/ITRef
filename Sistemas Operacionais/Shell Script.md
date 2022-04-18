@@ -18,11 +18,12 @@
 |\|      | direciona a saída de um comanda para a entrada de outro
 |tee   | captura a saída de um comando com pipe, copiando o que está entrando no tee para a saida padrão e outro comando ou arquivo
 |\$$     | representa o pid (process identification)
-|ed     | editor de text orientado a linha
-|sed    | editor para filtrar e transformar texto
+|[[ed]]     | editor de text orientado a linha
+|[[sed]]    | editor para filtrar e transformar texto|
+|[[cut]]| cortar cadeia de caracteres|
+| [[paste]]| junta cadeia de caracteres|
+|[[tr]]| traduz, transcreve ou transforma cadeira de caracteres|
+|[[expr]]| execução de operações aritméticas|
+|[[bc]]| calculadora|
 
-  
-  
-  
-  
 

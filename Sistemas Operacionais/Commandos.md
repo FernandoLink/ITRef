@@ -23,11 +23,12 @@
 |rmdir            | remove um diretório vazio|
 |rm               | apaga arquivos e diretórios|
 |file            | indicando tipo de arquivo|
-|[[grep]]             | procura arquivos por conteúdo|
+|[[grep]]             | localizar cadeira de caracteres em uma entrada definida|
 |[[find]]            | localiza arquivo por suas características|
 |basename        | devolve o nome de um arquivo recebendo o caminho completo|
 |dirname          | devolve o nome do diretório recebendo o caminho completo|
 |dir              | lista o contéudo do diretório|
+|which| localiza um comando|
 |. (ponto)| diretório atual|
 |.. (dois pontos) | diretório anterior|
 |~ (til)        | diretório home do usuário|

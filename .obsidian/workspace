@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT.md",
+            "file": "Sistemas Operacionais/Shell Script.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "IT.md",
+            "file": "Sistemas Operacionais/Shell Script.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT.md",
+                "file": "Sistemas Operacionais/Shell Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,15 +127,15 @@
   },
   "active": "51931112eac6142f",
   "lastOpenFiles": [
-    "IT.md",
-    "Utilitários/Utilitários.md",
-    "Utilitários/Expressões Regulares.md",
-    "Utilitários/Diferenças.md",
-    "Utilitários/Precedência.md",
-    "Utilitários/Remendos.md",
-    "Utilitários/POSIX.md",
-    "Utilitários/Modernosos.md",
-    "Utilitários/Barra-letras.md",
-    "Utilitários/Resumão.md"
+    "Sistemas Operacionais/Shell Script.md",
+    "Sistemas Operacionais/expr.md",
+    "Sistemas Operacionais/bc.md",
+    "Sistemas Operacionais/cut.md",
+    "Sistemas Operacionais/paste.md",
+    "Sistemas Operacionais/Linux.md",
+    "Sistemas Operacionais/tr.md",
+    "Sistemas Operacionais/Commandos.md",
+    "Sistemas Operacionais/sed.md",
+    "Sistemas Operacionais/ed.md"
   ]
 }
