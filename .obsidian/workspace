@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT.md",
+            "file": "Redes de Computadores/Redes de Computadores.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "IT.md",
+            "file": "Redes de Computadores/Redes de Computadores.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT.md",
+                "file": "Redes de Computadores/Redes de Computadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,15 +127,15 @@
   },
   "active": "51931112eac6142f",
   "lastOpenFiles": [
-    "IT.md",
     "Redes de Computadores/Redes de Computadores.md",
+    "Redes de Computadores/SOAP.md",
+    "IT.md",
+    "Utilitários/Utilitários.md",
+    "Utilitários/Expressões Regulares.md",
     "Redes de Computadores/WWW.md",
+    "Programação/Programação.md",
     "Sistemas Operacionais/Sistemas Operacionais.md",
     "Sistemas Operacionais/Linux.md",
-    "Sistemas Operacionais/Virtualização.md",
-    "Sistemas Operacionais/Logs do Sistema.md",
-    "Sistemas Operacionais/Servidores Web.md",
-    "Sistemas Operacionais/Gerenciamento de Redes.md",
-    "Sistemas Operacionais/Sistemas de Automação.md"
+    "Sistemas Operacionais/Virtualização.md"
   ]
 }
