@@ -6,6 +6,7 @@
 * find . -regex 'RE'
 * find . -iregex - ignorar maiúsculas e minúsculas
 * find . -name -type * - somente arquivos
+* find . -user usuário
 
 
 

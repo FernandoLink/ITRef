@@ -6,10 +6,11 @@
       {
         "id": "8b0efa7f14c75b31",
         "type": "leaf",
+        "dimension": 58.44086021505376,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Redes de Computadores/Redes de Computadores.md",
+            "file": "Sistemas Operacionais/Shell Script.md",
             "mode": "source",
             "source": false
           }
@@ -19,20 +20,21 @@
       {
         "id": "51931112eac6142f",
         "type": "leaf",
+        "dimension": 41.55913978494624,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Redes de Computadores/Redes de Computadores.md",
+            "file": "Sistemas Operacionais/Shell Script.md",
             "options": {
               "collapse-filter": true,
               "search": "",
               "localJumps": 1,
               "localBacklinks": true,
               "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
+              "localInterlinks": true,
+              "showTags": true,
+              "showAttachments": true,
+              "hideUnresolved": true,
               "collapse-color-groups": true,
               "colorGroups": [],
               "collapse-display": false,
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes de Computadores/Redes de Computadores.md",
+                "file": "Sistemas Operacionais/Shell Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,17 +127,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "51931112eac6142f",
+  "active": "8b0efa7f14c75b31",
   "lastOpenFiles": [
-    "Redes de Computadores/Redes de Computadores.md",
-    "Redes de Computadores/SOAP.md",
+    "Sistemas Operacionais/Shell Script.md",
+    "Sistemas Operacionais/Linux.md",
+    "Sistemas Operacionais/Commandos.md",
+    "Sistemas Operacionais/find.md",
+    "Sistemas Operacionais/expr.md",
+    "Sistemas Operacionais/echo.md",
+    "Sistemas Operacionais/Sistemas Operacionais.md",
     "IT.md",
     "Utilitários/Utilitários.md",
-    "Utilitários/Expressões Regulares.md",
-    "Redes de Computadores/WWW.md",
-    "Programação/Programação.md",
-    "Sistemas Operacionais/Sistemas Operacionais.md",
-    "Sistemas Operacionais/Linux.md",
-    "Sistemas Operacionais/Virtualização.md"
+    "Utilitários/Expressões Regulares.md"
   ]
 }

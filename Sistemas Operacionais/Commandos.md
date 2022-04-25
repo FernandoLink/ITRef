@@ -125,6 +125,18 @@
 |at | permite que se programem datas e horas para execução de tarefas
 |batch | executar tarefas pesadas em segundo plano (background)
 
+##### AMBIENTE
+***
 
-  
+|comando|descrição|
+|--|--|
+|[[echo]]| mostra linha de texto|
+|set| informa uma lista de todas as variáveis locais, variável de ambiente e funções do shell|
+|unset| apaga uma variável de ambiente da memória|
+|printenv| imprime as variáveis de ambiente|
+|export| exporta as variáveis criadas para todos os processos filhos do shell|
+
+
+
+
 
