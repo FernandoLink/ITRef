@@ -16,7 +16,7 @@
 |<      | avisa ao shell que a entrada padrão não será o teclado, mas sim o arquivo especificado
 |<<     | indica ao shell que o escopo de um comando começa na linha seguinte e termina quando  encontra uma linha cujo conteúdo seja unicamente o label que segue o sinal<<|
 | <<<| alimenta a entrada primária (stdin) do comando|
-|\|      | direciona a saída de um comanda para a entrada de outro
+|[[pipe]] \|      | direciona a saída de um comanda para a entrada de outro
 |tee   | captura a saída de um comando com pipe, copiando o que está entrando no tee para a saida padrão e outro comando ou arquivo
 |\$$     | representa o pid (process identification)
 |[[ed]]     | editor de text orientado a linha
@@ -27,6 +27,10 @@
 |[[expr]]| execução de operações aritméticas|
 |[[bc]]| calculadora|
 |uniq| quando desejamos trabalhar com os registros duplicados de uma entrada|
+| [[xargs]]| controi listas de parâmetros e passa para a execução de outros programas|
+| [[if]] | instrução condicional|
+| [[test]]| usado para testar condições|
+
 
 ##### VARIÁVEL
 O nome de uma variável é iniciado por uma letra ou um sublinhado, seguido ou não por quaisquer caracteres alfanuméricos ou caracteres sublinhado.

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemas Operacionais/Shell Script.md",
+            "file": "Sistemas Operacionais/if.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Sistemas Operacionais/Shell Script.md",
+            "file": "Sistemas Operacionais/if.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operacionais/Shell Script.md",
+                "file": "Sistemas Operacionais/if.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +129,15 @@
   },
   "active": "8b0efa7f14c75b31",
   "lastOpenFiles": [
+    "Sistemas Operacionais/if.md",
     "Sistemas Operacionais/Shell Script.md",
+    "Sistemas Operacionais/test.md",
+    "Sistemas Operacionais/pipe.md",
     "Sistemas Operacionais/Linux.md",
-    "Sistemas Operacionais/Commandos.md",
-    "Sistemas Operacionais/find.md",
-    "Sistemas Operacionais/expr.md",
-    "Sistemas Operacionais/echo.md",
     "Sistemas Operacionais/Sistemas Operacionais.md",
-    "IT.md",
-    "Utilitários/Utilitários.md",
-    "Utilitários/Expressões Regulares.md"
+    "Sistemas Operacionais/Commandos.md",
+    "Sistemas Operacionais/grep.md",
+    "Sistemas Operacionais/xargs.md",
+    "Sistemas Operacionais/find.md"
   ]
 }
