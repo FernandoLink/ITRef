@@ -6,11 +6,11 @@
       {
         "id": "8b0efa7f14c75b31",
         "type": "leaf",
-        "dimension": 58.44086021505376,
+        "dimension": 58.924731182795696,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemas Operacionais/if.md",
+            "file": "Banco de Dados/SQLPlus.md",
             "mode": "source",
             "source": false
           }
@@ -20,11 +20,11 @@
       {
         "id": "51931112eac6142f",
         "type": "leaf",
-        "dimension": 41.55913978494624,
+        "dimension": 41.075268817204304,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Sistemas Operacionais/if.md",
+            "file": "Banco de Dados/SQLPlus.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operacionais/if.md",
+                "file": "Banco de Dados/SQLPlus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +129,15 @@
   },
   "active": "8b0efa7f14c75b31",
   "lastOpenFiles": [
-    "Sistemas Operacionais/if.md",
-    "Sistemas Operacionais/Shell Script.md",
-    "Sistemas Operacionais/test.md",
-    "Sistemas Operacionais/pipe.md",
-    "Sistemas Operacionais/Linux.md",
+    "Banco de Dados/SQLPlus.md",
+    "Banco de Dados/Oracle.md",
+    "Banco de Dados/Banco de Dados.md",
+    "IT.md",
     "Sistemas Operacionais/Sistemas Operacionais.md",
-    "Sistemas Operacionais/Commandos.md",
-    "Sistemas Operacionais/grep.md",
-    "Sistemas Operacionais/xargs.md",
-    "Sistemas Operacionais/find.md"
+    "Sistemas Operacionais/Linux.md",
+    "Sistemas Operacionais/Shell Script.md",
+    "Sistemas Operacionais/if.md",
+    "Sistemas Operacionais/test.md",
+    "Sistemas Operacionais/pipe.md"
   ]
 }
