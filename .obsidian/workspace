@@ -4,37 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "8b0efa7f14c75b31",
+        "id": "6c8ce4679e56e5d6",
         "type": "leaf",
-        "dimension": 58.924731182795696,
+        "dimension": 63.126252505010015,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Banco de Dados/SQLPlus.md",
+            "file": "Programação/Java.md",
             "mode": "source",
             "source": false
           }
         },
-        "group": "7e1f12e19a5bc0dd"
+        "group": "068017bc08b45db8"
       },
       {
-        "id": "51931112eac6142f",
+        "id": "ae93a40ec1c76d30",
         "type": "leaf",
-        "dimension": 41.075268817204304,
+        "dimension": 36.87374749498998,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Banco de Dados/SQLPlus.md",
+            "file": "Programação/Java.md",
             "options": {
               "collapse-filter": true,
               "search": "",
               "localJumps": 1,
               "localBacklinks": true,
               "localForelinks": true,
-              "localInterlinks": true,
-              "showTags": true,
-              "showAttachments": true,
-              "hideUnresolved": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
               "collapse-color-groups": true,
               "colorGroups": [],
               "collapse-display": false,
@@ -52,7 +52,7 @@
             }
           }
         },
-        "group": "7e1f12e19a5bc0dd"
+        "group": "068017bc08b45db8"
       }
     ],
     "direction": "vertical"
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/SQLPlus.md",
+                "file": "Programação/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,17 +127,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8b0efa7f14c75b31",
+  "active": "ae93a40ec1c76d30",
   "lastOpenFiles": [
-    "Banco de Dados/SQLPlus.md",
-    "Banco de Dados/Oracle.md",
-    "Banco de Dados/Banco de Dados.md",
+    "Programação/Java.md",
+    "Programação/Tipos Primitivos.md",
+    "Programação/Comentários.md",
+    "Programação/Camel Case.md",
+    "Programação/Visão Geral.md",
+    "Programação/Linguagens.md",
+    "Programação/Programação.md",
     "IT.md",
     "Sistemas Operacionais/Sistemas Operacionais.md",
-    "Sistemas Operacionais/Linux.md",
-    "Sistemas Operacionais/Shell Script.md",
-    "Sistemas Operacionais/if.md",
-    "Sistemas Operacionais/test.md",
-    "Sistemas Operacionais/pipe.md"
+    "Sistemas Operacionais/Linux.md"
   ]
 }
