@@ -5,6 +5,7 @@
 * [[Tipos Primitivos]]
 * [[Operadores]]
 * [[Classes]]
+* [[Estruturas]]
 
 ##### SITES
 ***

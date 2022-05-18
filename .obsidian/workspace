@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programação/Operadores.md",
+            "file": "Programação/Estruturas de Repetição.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Programação/Operadores.md",
+            "file": "Programação/Estruturas de Repetição.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programação/Operadores.md",
+                "file": "Programação/Estruturas de Repetição.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +129,15 @@
   },
   "active": "6c8ce4679e56e5d6",
   "lastOpenFiles": [
-    "Programação/Operadores.md",
+    "Programação/Estruturas de Repetição.md",
+    "Programação/Estruturas.md",
+    "Programação/Estruturas Condicionais.md",
     "Programação/Java.md",
     "Programação/Classes.md",
+    "Programação/Operadores.md",
+    "Programação/Linguagens.md",
     "Programação/Math.md",
     "Programação/Tipos Primitivos.md",
-    "Programação/Comentários.md",
-    "Programação/Camel Case.md",
-    "Programação/Visão Geral.md",
-    "Programação/Linguagens.md",
-    "Programação/Programação.md"
+    "Programação/Comentários.md"
   ]
 }
