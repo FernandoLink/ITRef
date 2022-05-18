@@ -3,6 +3,8 @@
 * [[Camel Case]]
 * [[Comentários]]
 * [[Tipos Primitivos]]
+* [[Operadores]]
+* [[Classes]]
 
 ##### SITES
 ***
