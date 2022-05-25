@@ -6,11 +6,11 @@
       {
         "id": "6c8ce4679e56e5d6",
         "type": "leaf",
-        "dimension": 63.126252505010015,
+        "dimension": 65.92592592592592,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programação/Java.md",
+            "file": "Utilitários/docker image.md",
             "mode": "source",
             "source": false
           }
@@ -20,11 +20,11 @@
       {
         "id": "ae93a40ec1c76d30",
         "type": "leaf",
-        "dimension": 36.87374749498998,
+        "dimension": 34.074074074074076,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Programação/Java.md",
+            "file": "Utilitários/docker image.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -47,7 +47,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1,
+              "scale": 0.7132754626224425,
               "close": true
             }
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programação/Java.md",
+                "file": "Utilitários/docker image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,17 +127,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ae93a40ec1c76d30",
+  "active": "6c8ce4679e56e5d6",
   "lastOpenFiles": [
-    "Programação/Java.md",
-    "Programação/Linguagens.md",
-    "Programação/Programação.md",
+    "Utilitários/docker image.md",
+    "Utilitários/Docker.md",
+    "Utilitários/Utilitários.md",
     "IT.md",
-    "Programação/Estruturas.md",
-    "Programação/Estruturas de Repetição.md",
-    "Programação/Estruturas Condicionais.md",
-    "Programação/Classes.md",
-    "Programação/Operadores.md",
-    "Programação/Math.md"
+    "Utilitários/Markdown.md",
+    "Utilitários/GitHub.md",
+    "Utilitários/Git.md",
+    "Utilitários/docker container.md",
+    "Programação/Programação.md",
+    "Programação/Linguagens.md"
   ]
 }
