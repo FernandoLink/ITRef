@@ -6,11 +6,13 @@ Os contêineres são isolados uns dos outros e agrupam seus próprios softwares,
 Eles podem se comunicar uns com os outros por meio de canais bem definidos.
 Todos os contêineres são executados por um único kernel do sistema operacional e, portanto, usam menos recursos do que as máquinas virtuais.
 Um container tem várias camadas mas somente na última camada é read/write, as outras camadas são somente read.
-Caso precise alterar as outras camadas, que não a última, o docker cria uma cópia identica e aí sim consigo alterar.
+Caso precise alterar as outras camadas, que não a última, o docker cria uma cópia identica e aí sim consegue alterar.
 
 ***
 * [[docker container]]
 * [[docker image]]
+* [[docker volume]]
+* [[dockerfile]]
 
 ***
 

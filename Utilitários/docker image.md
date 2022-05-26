@@ -9,6 +9,7 @@
 |docker image ls | Mostrar os dockerfiles|
 |docker image build -t \<repository\>:\<tag\> . | Buildar o dockerfile|
 |docker image rm \<repository\>:\<tag\> . | Buildar o dockerfile|
+|docker image prune| Remover todas as imagens não usadas|
 
 
 

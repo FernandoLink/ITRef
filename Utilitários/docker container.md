@@ -27,4 +27,7 @@
 |docker container stat \<container ID\>|Mostrar estatísticas CPU, MEM e NET|
 |docker container top \<container ID\>|Mostrar os processos rodando no container|
 |docker container update \<param\> \<container ID\>|Atualiza configuração do container|
+|docker container prune| Remove todos os containers parados|
+|docker container create --name \<nome\> | Criar container sem inicializá-lo|
+
 
