@@ -9,10 +9,18 @@ Um container tem várias camadas mas somente na última camada é read/write, as
 Caso precise alterar as outras camadas, que não a última, o docker cria uma cópia identica e aí sim consegue alterar.
 
 ***
+|Comando|Descrição|
+|:--|:--|
+|docker version ou --version|Verificar a versão do docker|
+|docker --help| Mostra ajuda dos comandos do docker|
+
+***
 * [[docker container]]
 * [[docker image]]
 * [[docker volume]]
+* [[docker commit]]
 * [[dockerfile]]
+* [[dockerhub]]
 
 ***
 
@@ -20,6 +28,8 @@ Caso precise alterar as outras camadas, que não a última, o docker cria uma c�
 ***
 [Docker](https://www.docker.com/)
 [Documentação](https://docs.docker.com/)
+[Docker Hub](https://hub.docker.com/)
+
 
 
 

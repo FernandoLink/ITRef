@@ -5,7 +5,6 @@
 
 |Comando|Descrição|
 |:--|:--|
-|docker version ou --version|Verificar a versão do docker|
 |docker container --help| Mostra ajuda dos comandos do container|
 |docker container \<commando\> --help| Mostrar ajuda do comando|
 |ctlr+p+q| Sair do container sem destruí-lo|
