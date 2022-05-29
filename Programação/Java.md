@@ -6,6 +6,7 @@
 * [[Operadores]]
 * [[Classes]]
 * [[Estruturas]]
+* [[Vetores]]
 
 ##### SITES
 ***
