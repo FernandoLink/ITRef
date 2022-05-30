@@ -7,6 +7,7 @@
 * [[Classes]]
 * [[Estruturas]]
 * [[Vetores]]
+* [[Métodos]]
 
 ##### SITES
 ***
