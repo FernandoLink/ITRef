@@ -38,6 +38,14 @@ Indicam o nível de acesso aos componentes internos de uma classe.
 
 ***
 
+**Pilares da POO**
+* [[Encapsulamento]]
+* [[Herança]] 
+* [[Poliformismo]]
+
+
+
+
 
 
 
