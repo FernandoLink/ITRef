@@ -11,7 +11,7 @@ Coisa material ou abstrata que pode ser percebida pelos sentidos e descrita por 
 * *Estado* - Como eu estou agora (*estado*)?
 
 **Observações:** 
-- Todos os objetos vem de uma classe.
+- Todos os objetos vem de uma classe. 
 * Instanciar é quando pego uma classe e gero um objeto.
 
 **Portanto:**
