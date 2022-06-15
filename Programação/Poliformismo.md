@@ -10,6 +10,10 @@ Permite que um mesmo nome represente vários comportamentos diferentes.
 *Tipos de polimorfismo*
  * Sobreposição - Mesma Assinatura e Classes Diferentes.
  * Sobrecarga - Assinaturas Diferentes e Mesma Classe.
+ * Inclusão - ???
+ * Paramétrico - ???
+
+
 
 
 
