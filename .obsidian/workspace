@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Redes de Computadores/Nome do Canal.md",
+            "file": "Redes de Computadores/Youtube.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Redes de Computadores/Nome do Canal.md",
+            "file": "Redes de Computadores/Youtube.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes de Computadores/Nome do Canal.md",
+                "file": "Redes de Computadores/Youtube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,10 +127,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6c8ce4679e56e5d6",
+  "active": "ae93a40ec1c76d30",
   "lastOpenFiles": [
-    "Redes de Computadores/Nome do Canal.md",
     "Redes de Computadores/Youtube.md",
+    "Redes de Computadores/Nome do Canal.md",
     "Redes de Computadores/Nicho.md",
     "Redes de Computadores/Monetização.md",
     "Redes de Computadores/SEO (Search Engine Optimization).md",
