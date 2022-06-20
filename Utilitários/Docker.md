@@ -23,6 +23,7 @@ Caso precise alterar as outras camadas, que não a última, o docker cria uma c�
 * [[docker node]]
 * [[dockerfile]]
 * [[dockerhub]]
+* [[docker service]]
 
 ***
 
