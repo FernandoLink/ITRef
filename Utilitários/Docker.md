@@ -14,6 +14,8 @@ Caso precise alterar as outras camadas, que não a última, o docker cria uma c�
 |docker version ou --version|Verificar a versão do docker|
 |docker --help| Mostra ajuda dos comandos do docker|
 | docker info| Mostra informações do docker|
+|docker login| Login no docker|
+|docker logout| Logout no docker|
 
 ***
 * [[docker container]]
