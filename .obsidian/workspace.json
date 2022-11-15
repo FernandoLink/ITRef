@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "9b5a294ef29b357f",
+    "type": "split",
+    "children": [
+      {
+        "id": "497382b45e4f697e",
+        "type": "tabs",
+        "dimension": 43.230277185501066,
+        "children": [
+          {
+            "id": "6c8ce4679e56e5d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programação/Programação Orientada a Objetos.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "068017bc08b45db8"
+          }
+        ]
+      },
+      {
+        "id": "201b553efb5bacd1",
+        "type": "tabs",
+        "dimension": 56.769722814498934,
+        "children": [
+          {
+            "id": "ae93a40ec1c76d30",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Programação/Programação Orientada a Objetos.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000013,
+                  "close": true
+                }
+              }
+            },
+            "group": "068017bc08b45db8"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "359d26c0faa899fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "db703807788290e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64dfed356013bca9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "16140a574593238a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Commandos",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "939f913479fc358e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2be5c3f1fb914ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f712a9bb231fbbbc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programação/Programação Orientada a Objetos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6c8ce4679e56e5d6",
+  "lastOpenFiles": [
+    "Programação/Java.md",
+    "Programação/Estruturas.md",
+    "Programação/Estruturas de Repetição.md",
+    "Programação/Estruturas Condicionais.md",
+    "Programação/Operadores.md",
+    "Programação/Tipos Abstratos.md",
+    "Programação/Tipos Primitivos.md",
+    "Programação/Visão Geral.md",
+    "Programação/Linguagens.md",
+    "Programação/Programação.md"
+  ]
+}

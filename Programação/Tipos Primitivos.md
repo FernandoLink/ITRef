@@ -38,3 +38,20 @@ Boolean casado = new Boolean(false);
 |Reais|float|Float|4 bytes|3.4e^+38|
 | | double| Double|8 bytes|1.8e^+308|
 
+***
+**Cast**
+Implícito e explícito
+
+|DE/PARA|byte|short|char|int|long|float|double|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|byte|----|impl.|(char)|impl.|impl.|impl.|impl.|
+|short|(byte)|----|(char)|impl.|impl.|impl.|impl.|
+|char|(byte)|(short)|----|impl.|impl.|impl.|impl.|
+|int|(byte)|(short)|(char)|----|impl.|impl.|impl.|
+|long|(byte)|(short)|(char)|(int)|----|impl.|impl.|
+|float|(byte)|(short)|(char)|(int)|(long)|----|impl.|
+|double|(byte)|(short)|(char)|(int)|(long)|(float)|----|
+
+
+
+
