@@ -21,7 +21,7 @@ static int soma(int a, int b) {
 ***
 
 **Obs.:** 
-*Static* - serve para dizer que o método pertence à classe em que foi declarada, não a uma instência dela.
+*Static* - serve para dizer que o método pertence à classe em que foi declarada, não a uma instância dela.
 
 ***
 **Modificadores de acesso**
