@@ -35,4 +35,10 @@ JVM + bibliotecas
 
 **IDE - Integrated Development Environment**
 
- 
+***
+**HEAP**
+é um local da memória que armazena todos os objetos que serão utilizados no seu programa
+
+**Call Stack**
+A pilha de chamadas é um mecanismo do interpretador de uma linguagem que organiza o funcionamento do script quando são chamadas muitas funções, qual função está sendo executada no momento, e quais serão chamadas dentro de alguma função, etc.
+
