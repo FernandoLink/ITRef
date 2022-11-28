@@ -10,6 +10,8 @@
 * [[Vetores]]
 * [[Métodos]]
 * [[Programação Orientada a Objetos]]
+* [[Function Object]]
+* [[Lamba]]
 
 ### PACKAGES
 ***
