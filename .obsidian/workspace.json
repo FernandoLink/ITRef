@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programação/Serialização.md",
+                "file": "Programação/Collections.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Programação/Serialização.md",
+                "file": "Programação/Collections.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programação/Serialização.md",
+                "file": "Programação/Collections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,14 +143,14 @@
   "active": "6c8ce4679e56e5d6",
   "lastOpenFiles": [
     "Programação/Java.md",
+    "Programação/Collections.md",
+    "Programação/Lamba.md",
+    "Programação/Serialização.md",
     "Programação/Linguagens.md",
     "Programação/Programação.md",
     "IT.md",
     "Utilitários/Utilitários.md",
     "Utilitários/Expressões Regulares.md",
-    "Utilitários/Resumão.md",
-    "Utilitários/Barra-letras.md",
-    "Programação/Unicode.md",
-    "Programação/java.io.md"
+    "Utilitários/Resumão.md"
   ]
 }
