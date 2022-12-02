@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programação/java.io.md",
+                "file": "Programação/Serialização.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Programação/java.io.md",
+                "file": "Programação/Serialização.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Commandos",
+                "query": "rege",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "939f913479fc358e",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programação/java.io.md",
+                "file": "Programação/Serialização.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,14 +143,14 @@
   "active": "6c8ce4679e56e5d6",
   "lastOpenFiles": [
     "Programação/Java.md",
-    "Programação/Lamba.md",
-    "Programação/Function Object.md",
-    "Programação/Comentários.md",
-    "Programação/Camel Case.md",
-    "Programação/Visão Geral.md",
-    "Programação/java.util.md",
-    "Programação/java.lang.md",
-    "Programação/Number.md",
-    "Programação/Integer.md"
+    "Programação/Linguagens.md",
+    "Programação/Programação.md",
+    "IT.md",
+    "Utilitários/Utilitários.md",
+    "Utilitários/Expressões Regulares.md",
+    "Utilitários/Resumão.md",
+    "Utilitários/Barra-letras.md",
+    "Programação/Unicode.md",
+    "Programação/java.io.md"
   ]
 }
