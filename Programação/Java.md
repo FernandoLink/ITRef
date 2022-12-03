@@ -14,7 +14,7 @@
 * [[Lamba]]
 * [[Unicode]]
 * *[[Serialização]]
-* [[Collections]]
+* [[Collection]]
 
 ### PACKAGES
 ***

@@ -1,3 +1,4 @@
-[[ArrayList]]
+* [[ArrayList]]
 * [[LinkedList]]
 * [[Vector]]
+
