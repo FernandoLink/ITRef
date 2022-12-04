@@ -1,4 +1,3 @@
-
 * [[Visão Geral]]
 * [[Camel Case]]
 * [[Comentários]]
@@ -11,16 +10,21 @@
 * [[Métodos]]
 * [[Programação Orientada a Objetos]]
 * [[Function Object]]
+* [[Classe Anônima]]
 * [[Lamba]]
 * [[Unicode]]
 * *[[Serialização]]
 * [[Collection]]
+* [[Interfaces]]
+* [[Method Reference]]
+* [[Stream]]
 
 ### PACKAGES
 ***
 * [[java.lang]]
 * [[java.util]]
 * [[java.io]]
+* [[java.time]]
 
 ##### FRAMEWORKS
 ***

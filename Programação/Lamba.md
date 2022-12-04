@@ -1,4 +1,4 @@
-
+Lambda é para interface que tem somente um método e se chama **Interface Funcional**.
 
 ```
 lista.sort((Conta c1, Conta c2) -> {
@@ -15,6 +15,6 @@ lista.sort((c1, c2) -> c1.getTitular().compareTo(c2.getTitular()));
 ```
 
 ```
-lista.forEach((conta) -> System.out.println(conta));
+lista.forEach(conta -> System.out.println(conta));
 ```
 

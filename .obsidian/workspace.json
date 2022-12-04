@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programação/List.md",
+                "file": "Programação/java.time.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Programação/List.md",
+                "file": "Programação/java.time.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "939f913479fc358e",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programação/List.md",
+                "file": "Programação/java.time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,15 +143,15 @@
   },
   "active": "6c8ce4679e56e5d6",
   "lastOpenFiles": [
-    "Programação/Vector.md",
-    "Programação/List.md",
-    "Programação/Collection.md",
-    "Programação/Set.md",
     "Programação/Java.md",
-    "Programação/java.util.md",
-    "Programação/java.io.md",
-    "Programação/Serialização.md",
-    "Programação/Collections.md",
-    "Programação/Lamba.md"
+    "Programação/Lamba.md",
+    "Programação/Interfaces.md",
+    "Programação/Method Reference.md",
+    "Programação/Stream.md",
+    "Programação/Classe Anônima.md",
+    "Programação/Tipos Abstratos.md",
+    "Programação/Collection.md",
+    "Programação/List.md",
+    "Programação/Vector.md"
   ]
 }
