@@ -18,6 +18,7 @@
 * [[Interfaces]]
 * [[Method Reference]]
 * [[Stream]]
+* *[[Threads]]
 
 ### PACKAGES
 ***
