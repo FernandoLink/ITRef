@@ -26,6 +26,7 @@
 * [[java.util]]
 * [[java.io]]
 * [[java.time]]
+* [[java.net]]
 
 ##### FRAMEWORKS
 ***
