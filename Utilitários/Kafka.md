@@ -5,3 +5,5 @@ O Apache Kafka é uma plataforma distribuída de transmissão de dados que é c
 * [[kafka-topics.sh]]
 * [[kafka-console-producer.sh]]
 * [[kafka-console-consumer.sh]]
+* [[kafka-consumer-groups.sh]]
+
