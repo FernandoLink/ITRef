@@ -27,6 +27,7 @@
 * [[java.io]]
 * [[java.time]]
 * [[java.net]]
+* [[java.sql]]
 
 ##### FRAMEWORKS
 ***
