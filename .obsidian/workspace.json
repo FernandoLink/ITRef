@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utilitários/Kafka.md",
+                "file": "Programação/Tipos Primitivos.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Utilitários/Kafka.md",
+                "file": "Programação/Tipos Primitivos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilitários/Kafka.md",
+                "file": "Programação/Tipos Primitivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,17 +141,26 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "64dfed356013bca9",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "6c8ce4679e56e5d6",
   "lastOpenFiles": [
-    "Utilitários/Utilitários.md",
-    "IT.md",
-    "Programação/Programação.md",
-    "Programação/Linguagens.md",
     "Programação/Java.md",
-    "Programação/java.sql.md",
-    "Utilitários/Kafka.md",
-    "Utilitários/kafka-consumer-groups.sh.md",
     "Programação/Programação Orientada a Objetos.md",
-    "Programação/Encapsulamento.md"
+    "Programação/Operadores.md",
+    "Programação/Visão Geral.md",
+    "Programação/CLASSPATH.md",
+    "Programação/Interfaces.md",
+    "Programação/java.sql.md",
+    "Programação/Linguagens.md",
+    "Programação/Programação.md",
+    "IT.md"
   ]
 }
