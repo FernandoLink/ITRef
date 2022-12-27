@@ -9,6 +9,7 @@
 * [[Vetores]]
 * [[Métodos]]
 * [[Programação Orientada a Objetos]]
+* [[Exception]]
 * [[Function Object]]
 * [[Classe Anônima]]
 * [[Lamba]]
