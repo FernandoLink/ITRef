@@ -2,4 +2,5 @@
 
 * [[System.out.println]]
 * [[Number]]
+* [[System.out.format]]
 
