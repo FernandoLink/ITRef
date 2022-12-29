@@ -15,6 +15,7 @@
 |docker container run -d -m 128M \<container\>| Docker executa o container limitando memória a 128M|
 |docker container attach \<container ID ou names\>| Voltar para o container|
 |docker container exec -ti \<container ID\> \<command\>| Executar comando em containers deamon|
+|docker container port \<container ID\>| Listar as portas |
 |docker container stop \<container ID\>| Parar a execução do container|
 |docker container start \<container ID\>|Startar o container|
 |docker container restart \<container ID\>|Restartar o container|
@@ -28,5 +29,6 @@
 |docker container update \<param\> \<container ID\>|Atualiza configuração do container|
 |docker container prune| Remove todos os containers parados|
 |docker container create --name \<nome\> | Criar container sem inicializá-lo|
+
 
 
