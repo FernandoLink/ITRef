@@ -36,6 +36,7 @@ Caso precise alterar as outras camadas, que não a última, o docker cria uma c�
 * [[docker container]]
 * [[docker image]]
 * [[docker volume]]
+* [[docker network]]
 * [[docker commit]]
 * [[docker swarm]]
 * [[docker node]]
@@ -43,6 +44,13 @@ Caso precise alterar as outras camadas, que não a última, o docker cria uma c�
 * [[dockerhub]]
 * [[docker service]]
 
+***
+**Limpar tudo no docker**
+`docker system prune --all --force --volumes
+`docker container rm $(docker container ls -a -q)`
+`docker image rm $(docker image ls -a -q)
+`docker volume rm $(docker volume ls -q)`
+`docker network rm $(docker network ls -q)`
 ***
 
 ##### SITES

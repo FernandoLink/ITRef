@@ -1,5 +1,3 @@
- noe:14
-##### dockerfile
 ***
 O Docker pode construir imagens automaticamente lendo as instruções de um Dockerfile. 
 Um Dockerfile é um documento de texto que contém todos os comandos que um usuário poderia chamar na linha de comando para montar uma imagem. 

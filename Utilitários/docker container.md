@@ -10,6 +10,7 @@
 |ctlr+p+q| Sair do container sem destruí-lo|
 |docker container ls| Listar os containers ativos|
 |docker container ls -a| Listar os containers ativos/inativos|
+|docker container ls -s| Listar os containers ativos/inativos com o size|
 |docker container run -ti \<container\>| Docker executa o container, -ti terminal e interatividade|
 |docker container run -d \<container\>| Docker executa o container, -d deamon não rodar em primeiro plano|
 |docker container run -d -m 128M \<container\>| Docker executa o container limitando memória a 128M|

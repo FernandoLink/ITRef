@@ -21,3 +21,7 @@
 2. Quando precisamos adicionar o volume no container usar  o type=volume e passar no source o nome do volume.
 **Exemplo:** `docker container run -ti --mount type=volume,src=giropops,dst=/giropops,ro debian`
 
+3. Criar temporário (tmpfs) e só funciona no linux.
+**Exemplo:** `docker container run -ti --tmpfs=/app debian`
+***
+*tmpfs* é um tipo de sistema de arquivos que é armazenado em RAM e não em disco. Isso significa que os arquivos e pastas criados em um tmpfs são armazenados na memória RAM do host, ao invés de em um disco.
