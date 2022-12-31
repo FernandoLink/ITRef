@@ -12,3 +12,14 @@ Usar a rede host pode ser útil em alguns casos, como quando você precisa que o
 
 ***
 A rede **none** não vai ter nenhuma interface de rede, ele ficou isolado.
+
+***
+*Resumindo*
+* A rede bridge é usada para comunicar containers em um mesmo host;
+	`docker network create --driver bridge <nome da network> `
+* A rede host remove o isolamento de rede entre o container e o host;
+	`docker network create --driver host <nome da network> `
+* A rede none remove a interface de rede do container.
+	`docker network create --driver null <nome da network> `
+
+

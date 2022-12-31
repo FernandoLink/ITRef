@@ -37,6 +37,7 @@ Caso precise alterar as outras camadas, que não a última, o docker cria uma c�
 * [[docker image]]
 * [[docker volume]]
 * [[docker network]]
+* [[docker-compose]]
 * [[docker commit]]
 * [[docker swarm]]
 * [[docker node]]
