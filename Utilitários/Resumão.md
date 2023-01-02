@@ -20,3 +20,10 @@
 |\*\?| Asterisco |Não-guloso, 0 ou mais, casa o mínimo possível
 |\+\?| Mais |Não-guloso, 1 ou mais, casa o mínimo possível
 |\{\}\?| Chaves  |Não-guloso, numérico, casa o mínimo possível
+
+-   `?` - zero ou uma vez.
+-   `*` - zero ou mais vezes.
+-   `+` - uma ou mais vezes.
+-   `{n}` - exatamente n vezes.
+-   `{n,}` - no mínimo n vezes.
+-   `{n,m}` - no mínimo n vezes, no máximo m vezes.
