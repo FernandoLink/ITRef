@@ -22,6 +22,17 @@
 -   `commit` e `rollback` são operações clássicas de transações
 -   Para garantir o fechamento dos recursos, existe no Java uma cláusula _try-with-resources_
     -   O recurso em questão deve usar a interface `Autoclosable`
+-   É boa prática usar um **_pool_ de conexões**
+-   Um _pool_ de conexões administra/controla a quantidade de conexões abertas
+    -   Normalmente tem um mínimo e máximo de conexões
+-   Como existe uma interface que representa a conexão (`java.sql.Connection`), também existe uma interface que representa o _pool_ de conexões (`javax.sql.DataSource`)
+-   **C3PO** é uma implementação Java de um _pool_ de conexão
+-   Para cada tabela de domínio, temos uma classe de domínio
+    -   Por exemplo, a tabela `produtos` tem uma classe `Produto` associada
+    -   Objetos dessa classe representa um registro na tabela
+-   Para acessar a tabela, usaremos um padrão chamado **_Data Access Object_** (**DAO**)
+    -   Para cada classe de domínio, existe um DAO. Por exemplo, a classe `Produto` possui um `ProdutoDao`
+    -   Todos os métodos JDBC relacionados com o produto devem estar encapsulados no `ProdutoDao`
 
 ### SITES
 ***
