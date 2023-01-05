@@ -35,6 +35,7 @@
 ##### FRAMEWORKS
 ***
 * [[Quarkus]]
+* [[Hibernate]]
 
 ##### UTILITÁRIOS
 ***
