@@ -7,5 +7,8 @@
 * [[Jenkins]]
 * [[Kafka]]
 * [[Swagger]]
+* [[JSON]]
+* [[XML]]
+* [[YAML]]
 
 

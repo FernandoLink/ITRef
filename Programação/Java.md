@@ -22,6 +22,7 @@
 * [[Stream]]
 * *[[Threads]]
 * [[CLASSPATH]]
+* [[Records]]
 
 ### PACKAGES
 ***
@@ -36,10 +37,12 @@
 ***
 * [[Quarkus]]
 * [[Hibernate]]
+* [[Spring Boot]]
 
 ##### UTILITÁRIOS
 ***
 * [[Maven]]
+* [Lombok](https://projectlombok.org/setup/eclipse)
 
 ##### BIBLIOTECAS
 ***
