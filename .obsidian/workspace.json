@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programação/Spring Boot.md",
+                "file": "Programação/Java WEB.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Programação/Spring Boot.md",
+                "file": "Programação/Java WEB.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "swagger",
+                "query": "jwt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programação/Spring Boot.md",
+                "file": "Programação/Java WEB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,14 +154,14 @@
   "active": "6c8ce4679e56e5d6",
   "lastOpenFiles": [
     "Programação/Java.md",
+    "Programação/Java WEB.md",
     "Programação/Linguagens.md",
     "Programação/Programação.md",
     "IT.md",
-    "Segurança/Segurança.md",
-    "Utilitários/Utilitários.md",
-    "Programação/Spring Boot.md",
     "Redes de Computadores/Redes de Computadores.md",
-    "Redes de Computadores/Protocolos.md",
-    "Redes de Computadores/HTTP.md"
+    "Redes de Computadores/WWW.md",
+    "Redes de Computadores/Apache.md",
+    "Redes de Computadores/Sites.md",
+    "Segurança/Segurança.md"
   ]
 }
