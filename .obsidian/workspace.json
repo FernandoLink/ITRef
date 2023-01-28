@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programação/Java WEB.md",
+                "file": "Programação/Java.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Programação/Java WEB.md",
+                "file": "Programação/Java.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -57,7 +57,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224443,
+                  "scale": 0.6024013357398985,
                   "close": true
                 }
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jwt",
+                "query": "json",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programação/Java WEB.md",
+                "file": "Programação/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,15 +153,15 @@
   },
   "active": "6c8ce4679e56e5d6",
   "lastOpenFiles": [
+    "Programação/Servers.md",
     "Programação/Java.md",
-    "Programação/Java WEB.md",
     "Programação/Linguagens.md",
     "Programação/Programação.md",
     "IT.md",
-    "Redes de Computadores/Redes de Computadores.md",
-    "Redes de Computadores/WWW.md",
-    "Redes de Computadores/Apache.md",
-    "Redes de Computadores/Sites.md",
-    "Segurança/Segurança.md"
+    "Utilitários/Utilitários.md",
+    "Utilitários/XML.md",
+    "Programação/Maven.md",
+    "Programação/Java WEB.md",
+    "Redes de Computadores/Redes de Computadores.md"
   ]
 }
