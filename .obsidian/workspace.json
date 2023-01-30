@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes de Computadores/HTTP2.md",
+                "file": "Softwares/VIM.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Redes de Computadores/HTTP2.md",
+                "file": "Softwares/VIM.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "939f913479fc358e",
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes de Computadores/HTTP2.md",
+                "file": "Softwares/VIM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,8 +152,8 @@
   },
   "active": "6c8ce4679e56e5d6",
   "lastOpenFiles": [
-    "Redes de Computadores/Protocolos.md",
     "Redes de Computadores/HTTP2.md",
+    "Redes de Computadores/Protocolos.md",
     "HTTP/2.md",
     "Redes de Computadores/Redes de Computadores.md",
     "Redes de Computadores/WWW.md",

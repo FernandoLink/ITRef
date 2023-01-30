@@ -11,3 +11,7 @@
 * *:%s/^./\u&/c - torna maiúsculo o primeiro caractere;
 
 
+## Plugins
+***
+[Pathogen](https://github.com/tpope/vim-pathogen)
+[NERDTree](https://github.com/preservim/nerdtree)
