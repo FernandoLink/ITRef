@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Softwares/VIM.md",
+                "file": "Programação/Reflection.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,9 +34,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Softwares/VIM.md",
+                "file": "Programação/Reflection.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -47,17 +47,17 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
+                  "textFadeMultiplier": -0.6,
+                  "nodeSizeMultiplier": 1.325,
+                  "lineSizeMultiplier": 1.14635416666667,
                   "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6024013357398985,
+                  "scale": 0.42967809143425323,
                   "close": true
                 }
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vim",
+                "query": "reflection",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,12 +102,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "939f913479fc358e",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softwares/VIM.md",
+                "file": "Programação/Reflection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +152,15 @@
   },
   "active": "6c8ce4679e56e5d6",
   "lastOpenFiles": [
-    "Redes de Computadores/HTTP2.md",
-    "Redes de Computadores/Protocolos.md",
-    "HTTP/2.md",
-    "Redes de Computadores/Redes de Computadores.md",
-    "Redes de Computadores/WWW.md",
-    "Redes de Computadores/Sites.md",
-    "Redes de Computadores/Youtube.md",
-    "Redes de Computadores/Apache.md",
-    "Redes de Computadores/REST.md",
-    "Redes de Computadores/HTTP.md"
+    "Programação/Java.md",
+    "Programação/Reflection.md",
+    "Programação/Java WEB.md",
+    "Programação/Linguagens.md",
+    "Programação/Programação.md",
+    "IT.md",
+    "Pasted image 20220529214611.png",
+    "Pasted image 20230129103929.png",
+    "Pasted image 20221209161937.png",
+    "Pasted image 20221209162001.png"
   ]
 }
