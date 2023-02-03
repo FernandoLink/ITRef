@@ -25,6 +25,7 @@
 * [[Records]]
 * [[Java WEB]]
 * [[Reflection]]
+* [[Annotations]]
 
 ### PACKAGES
 ***

@@ -21,3 +21,7 @@ Method
 -   listar os tipos de parâmetros que ele recebe
 -   indicar qual é o retorno que o nosso método tem
 -   invocar o método em questão
+
+Field
+
+Parameter
