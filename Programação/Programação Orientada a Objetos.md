@@ -44,9 +44,26 @@ Indicam o nível de acesso aos componentes internos de uma classe.
 * [[Poliformismo]]
 * [[Abstração]]
 
+***
+### Princípios de Orientações a Objetos
 
+* **COESÃO** - União harmônica entre uma coisa e outra. Métodos e atributos são harmônicas com a classe. Então coesão é justamente isso, quando você tem uma harmonia entre elementos. Classes não coesas tendem a crescer indefinidamente, o que as tornam difíceis de manter.
+* **ENCAPSULAMENTO** - Incluir o proteger alguma coisa em uma cápsula. Encapsulamento é uma forma de manter os objetos das nossas classes protegidos, fornecendo apenas o que é estritamente necessário para o mundo exterior.Classes não encapsuladas permitem violação de regras de negócio, além de aumentarem o acoplamento. 
+* **ACOPLAMENTO** - Ação de acoplar. Agrupamento aos pares. Classes acopladas causam fragilidade no código da aplicação, o que dificulta sua manutenção.
 
+***
 
+-   *Coesão*:
+    -   Uma classe coesa faz bem uma única coisa
+    -   Classes coesas não devem ter várias responsabilidades
+-   *Encapsulamento*:
+    -   Getters e setters não são formas eficientes de aplicar encapsulamento
+    -   É interessante fornecer acesso apenas ao que é necessário em nossas classes
+    -   O encapsulamento torna o uso das nossas classes mais fácil e intuitivo
+-   *Acoplamento*:
+    -   Acoplamento é a dependência entre classes
+    -   Acoplamento nem sempre é ruim, e que é impossível criar um sistema sem nenhum acoplamento
+    -   Devemos controlar o nível de acoplamento na nossa aplicação
 
 
 

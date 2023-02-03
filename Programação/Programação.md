@@ -6,3 +6,5 @@
 * [[Inteligência Artificial]]
 * [[Machine Learning]]
 * [Os 12 Fatores](https://12factor.net/pt_br/)
+* [[SOLID]]
+
