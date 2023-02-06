@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Operacionais/Comandos.md",
+                "file": "Programação/Design Patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sistemas Operacionais/Comandos.md",
+                "file": "Programação/Design Patterns.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operacionais/Comandos.md",
+                "file": "Programação/Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,15 +153,15 @@
   },
   "active": "6c8ce4679e56e5d6",
   "lastOpenFiles": [
-    "Sistemas Operacionais/Windows.md",
-    "Sistemas Operacionais/Sistemas Operacionais.md",
-    "IT.md",
     "Programação/Programação.md",
-    "Programação/SOLID.md",
     "Programação/Linguagens.md",
     "Programação/Java.md",
+    "IT.md",
+    "Sistemas Operacionais/Sistemas Operacionais.md",
+    "Sistemas Operacionais/Windows.md",
+    "Sistemas Operacionais/Comandos.md",
+    "Programação/SOLID.md",
     "Programação/Programação Orientada a Objetos.md",
-    "Programação/Annotations.md",
-    "Programação/java.lang.md"
+    "Programação/Annotations.md"
   ]
 }
