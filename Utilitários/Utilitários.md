@@ -10,5 +10,6 @@
 * [[JSON]]
 * [[XML]]
 * [[YAML]]
+* [[Selenium]]
 
 
