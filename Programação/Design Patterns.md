@@ -5,6 +5,11 @@
 
 * Criacionais
 * Estruturais
+	* Adapter
+	* Decorator
+	* Composite
+	* Facade
+	* Proxy
 * Comportamentais
 	* Strategy
 	* Chain of Responsibility
