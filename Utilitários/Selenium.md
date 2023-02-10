@@ -16,6 +16,15 @@
 -   O que é o padrão Page Object;
 -   As vantagens de se utilizar o padrão Page Object;
 -   Como implementar o padrão Page Object com classes Java.
+-   Que o método `findElement()` devolve um objeto do tipo `WebElement`;
+-   Que não devemos enviar `null` pelo método `sendKeys()` ao testar campos vazios;
+-   Que um objeto Page Object pode devolver outro Page Object quando ocorre uma navegação entre páginas;
+-   Que podemos reaproveitar o objeto `WebDriver` entre diferentes objetos Page Object;
+-   Que podemos recuperar um elemento na página a partir de outro elemento;
+-   Que podemos utilizar herança, design patterns, dentre outras práticas para organizar os códigos de testes da aplicação.
+-   Que alguns testes podem falhar quando a aplicação utilizar códigos JavaScript, como por exemplo em chamadas AJAX;
+-   Que é possível configurar diferentes Timeouts na API do WebDriver;
+-   As boas práticas recomendadas no Guideline do Selenium WebDriver.
 
  
 ### SITES
