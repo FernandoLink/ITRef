@@ -41,6 +41,7 @@
 * [[Quarkus]]
 * [[Hibernate]]
 * [[Spring Boot]]
+* [[Spring MVC]]
 
 ##### UTILITÁRIOS
 ***
