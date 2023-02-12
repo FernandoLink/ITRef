@@ -42,6 +42,7 @@
 * [[Hibernate]]
 * [[Spring Boot]]
 * [[Spring MVC]]
+* [[Spring Data]]
 
 ##### UTILITÁRIOS
 ***
