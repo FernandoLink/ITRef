@@ -3,6 +3,7 @@
 *PowerShell possui uma convenção de nomes muito forte, no formato Verb-Noun.* (cmdlet)
 
 * **get-command** - comandos disponíveis.
+* **get-command | out-gridview** - comandos disponíveis numa grid view.
 * **get-command -name *rename*
 * **hostname** - devolve o Computarname.
 * **echo $env:path** - mostrar variável de ambiente PATH.
@@ -20,6 +21,8 @@
 * **get-variable** - variáveis globais.
 * **$private:variavel**
 * **out-file** - gera um arquivo.
+* **get-psdrive**
+* **enter-pssession** - entrar na sessão powershell de outro servidor.
 
 `get-variable | ? name -like *erro*`
 
@@ -59,9 +62,6 @@ gci -Recurse -File |
 `@{} | get-member`
 `(@{} | get-member -name add).definition`
 
-
-
-
-
-
+* **Comand interator**
+`$computers = 1..5 | % { "Server$_" }
 
