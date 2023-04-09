@@ -3,6 +3,7 @@
 * [[Comparator]]
 * [[Comparable]] - Ordem Natural
 * [[Arrays]]
+* [[List]]
 
 
 
