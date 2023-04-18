@@ -1,6 +1,6 @@
 ***
 
-O **protocolo HTTP** (_Hypertext Transfer Protocol_, [RFC 2616](https://www.rfc-editor.org/rfc/rfc2616)) é o protocolo responsável por fazer a comunicação entre o cliente, que normalmente é um _browser_, e o servidor. Dessa forma, a cada “requisição” feita pelo cliente, o servidor responde se ele obteve sucesso ou não. Se não obtiver sucesso, na maioria das vezes, a resposta do servidor será uma sequência numérica acompanhada por uma mensagem. Se não soubermos o que significa o código de resposta, dificilmente saberemos qual o problema que está acontecendo, por esse motivo é muito importante saber quais são os códigos HTTP e o que significam.
+O **protocolo HTTP** (_Hypertext Transfer Protocol_, [RFC](https://www.rfc-editor.org/rfc/rfc7231)) é o protocolo responsável por fazer a comunicação entre o cliente, que normalmente é um _browser_, e o servidor. Dessa forma, a cada “requisição” feita pelo cliente, o servidor responde se ele obteve sucesso ou não. Se não obtiver sucesso, na maioria das vezes, a resposta do servidor será uma sequência numérica acompanhada por uma mensagem. Se não soubermos o que significa o código de resposta, dificilmente saberemos qual o problema que está acontecendo, por esse motivo é muito importante saber quais são os códigos HTTP e o que significam.
 
 -   O protocolo HTTP segue o modelo **Requisição-Resposta**
 -   Sempre o **cliente** inicia a comunicação
@@ -12,8 +12,7 @@ O **protocolo HTTP** (_Hypertext Transfer Protocol_, [RFC 2616](https://www.rf
 
 ## Portas
 
-*80* - padrão HTTP
-*443* - padrão HTTPS
+![[Pasted image 20230418191808.png]]
 
 ## Categoria de códigos
 
@@ -70,3 +69,11 @@ Um bastante usado é o da própria Google: [https://developers.google.com/speed
 **URN** - Uniform Resource Name.
 
 ![[Pasted image 20230129103929.png]]
+
+## Principais Métodos HTTP
+***
+
+*POST* - create
+*GET* - read
+*PUT* - update
+*DELETE* - delete
