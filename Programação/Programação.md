@@ -8,3 +8,4 @@
 * [Os 12 Fatores](https://12factor.net/pt_br/)
 * [[SOLID]]
 * [[Design Patterns]]
+* [[Domain-Driven Design]]
