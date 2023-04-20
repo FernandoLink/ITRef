@@ -1,0 +1,2 @@
+***
+*QUIC (Quick UDP Internet Connections)* é um protocolo de transporte de dados que combina as vantagens do UDP com os recursos de segurança e confiabilidade do TLS. Ele foi desenvolvido pela Google para melhorar a velocidade e confiabilidade de suas aplicações, como o Google Search, YouTube e outros serviços online. O QUIC é uma solução mais rápida e segura do que o TCP e o TLS, uma vez que estabelece a conexão de forma mais eficiente e utiliza criptografia de ponta a ponta.

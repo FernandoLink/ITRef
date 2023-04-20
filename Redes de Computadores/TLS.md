@@ -1,0 +1,2 @@
+***
+*TLS (Transport Layer Security)* é um protocolo de segurança que é usado para estabelecer conexões criptografadas seguras entre dispositivos em uma rede. Ele é geralmente usado em conjunto com o TCP, criando uma conexão segura entre um cliente e um servidor para que as informações possam ser trocadas de maneira segura.
