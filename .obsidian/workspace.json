@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programação/Domain-Driven Design.md",
+                "file": "Banco de Dados/Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Programação/Domain-Driven Design.md",
+                "file": "Banco de Dados/Commands.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programação/Domain-Driven Design.md",
+                "file": "Banco de Dados/Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,10 +153,23 @@
   },
   "active": "6c8ce4679e56e5d6",
   "lastOpenFiles": [
+    "Banco de Dados/MongoDB.md",
+    "Banco de Dados/Commands.md",
+    "Banco de Dados/NoSQL.md",
+    "Banco de Dados/Banco de Dados.md",
+    "Software.md",
+    "Sistemas Operacionais/Sistemas Operacionais.md",
     "Programação/Programação.md",
+    "Programação/Linguagens.md",
+    "Programação/Java.md",
+    "Banco de Dados/SQL.md",
+    "Banco de Dados/SQLite.md",
+    "Banco de Dados/PostgreSQL.md",
+    "Banco de Dados/Oracle.md",
+    "Banco de Dados/PL-SQL.md",
+    "Banco de Dados/SQLPlus.md",
     "Programação/Domain-Driven Design.md",
     "Programação/Design Patterns.md",
-    "Software.md",
     "Redes de Computadores/Redes de Computadores.md",
     "Redes de Computadores/Protocolos.md",
     "Redes de Computadores/HTTP2.md",
@@ -166,19 +179,6 @@
     "Redes de Computadores/TLS.md",
     "Redes de Computadores/TCP.md",
     "Redes de Computadores/HTTP.md",
-    "Pasted image 20230418191808.png",
-    "Programação/Linguagens.md",
-    "Programação/Java.md",
-    "Programação/java.io.md",
-    "IT.md",
-    "Hardware/Hardware.md",
-    "Programação/java.net.md",
-    "Programação/java.util.md",
-    "Programação/List.md",
-    "Programação/Vector.md",
-    "Sistemas Operacionais/Sistemas Operacionais.md",
-    "Sistemas Operacionais/Windows.md",
-    "Sistemas Operacionais/PowerShell.md",
-    "Sistemas Operacionais/Comandos.md"
+    "Pasted image 20230418191808.png"
   ]
 }

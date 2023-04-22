@@ -1,6 +1,7 @@
-
+***
 
 ##### Utilitários
 ***
 
-**[[SQLPlus]]** - executar comandos SQL e PL/SQL tipo linha de comando.
+* [[SQLPlus]] - executar comandos SQL e PL/SQL tipo linha de comando.
+* [[PL-SQL]]

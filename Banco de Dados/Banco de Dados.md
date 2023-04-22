@@ -1,5 +1,4 @@
-* [[Oracle]]
-* [[PostgreSQL]]
-* [[SQLite]]
+***
 * [[SQL]]
-* [[PL-SQL]]
+* [[NoSQL]]
+
