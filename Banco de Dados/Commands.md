@@ -20,6 +20,17 @@ db.collection.updateMany(filter,[json])
 db.collection.replaceOne(filter,json)
 db.collection.deleteOne(filter)
 db.collection.deleteMany(filter)
+db.getCollectionInfos({name:"collection"})
+db.runCommand({listCollections: 1, filter:{name: "contas"}})
+db.runCommand({listCollections: 2)
+db.runCommand( { collMod: "clientes",
+  validator:{
+    $jsonSchema: {
+    }
+})
+let collection = { $jsonSchema}
+db.collection.find(collection)
+db.clientes.find({$nor: [collection]})
 
 
 ***

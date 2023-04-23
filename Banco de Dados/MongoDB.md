@@ -25,8 +25,24 @@ O BSON é uma extensão do formato JSON e suporta tipos de dados adicionais, com
 * Documentos são análogos a databases relacionais.
 * Coleções são análogas as tabelas em um database relacional.
 * O tamanho máximo de um documento BSON é 16 megabytes.
+* Especificar, no esquema JSON, que apenas campos incluídos no properties são válidos. Se tivermos algum documento com campo indefinido, ele será considerado inválido.  
+- Especificar que campos ausentes serão armazenados no documento com valor _null_ (nulo). Desta maneira, todos os campos estarão presentes no documento, mesmo os que não temos informações.
 ***
+*Operadores de avaliação*
 
+-   **$expr:** Permite o uso de expressões de agregação na linguagem de consulta. Ou seja, utilizaremos esse operador no momento das buscas na coleção e podemos passar outras expressões para que ele faça a busca segundo o que definimos.
+    
+-   **$mod:** Executa uma operação de módulo no valor de uma campo e seleciona documentos com um resultado especificado. Portanto, fará a divisão, resto e retornará os documentos que correspondem ao resultado da operação.
+    
+-   **$regex:** Seleciona documentos em que os valores correspondem a uma expressão regular especificada.
+    
+-   **$text:** Executa a pesquisa de texto. Essa pesquisa é feita através de um índice de texto. Esse operador é utilizado apenas no momento da busca.
+
+-   **$where:** Corresponde a documentos que atendem a uma expressão JavaScript. No momento das buscas, utilizamos o operador $where_ e, nele, passamos códigos JavaScript.
+
+-   **$jsonSchema:** Valida documentos em relação ao esquema JSON fornecido. Diferentemente dos outros, este operador não é utilizado no momento de busca dos dados, mas, sim, na criação da coleção, para especificar as regras que os documentos devem corresponder.
+***
+ 
 [[Commands]]
 
 ***
@@ -36,4 +52,5 @@ O BSON é uma extensão do formato JSON e suporta tipos de dados adicionais, com
 [MongoDB](https://www.mongodb.com/)
 [BSON Types](https://www.mongodb.com/docs/manual/reference/bson-types/)
 [BSON Specification](https://bsonspec.org/)
+[jsonSchema](https://www.mongodb.com/docs/manual/reference/operator/query/jsonSchema/)
 
