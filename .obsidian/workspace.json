@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco de Dados/Commands.md",
+                "file": "Banco de Dados/MongoDB.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Banco de Dados/Commands.md",
+                "file": "Banco de Dados/MongoDB.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/Commands.md",
+                "file": "Banco de Dados/MongoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,9 +153,11 @@
   },
   "active": "6c8ce4679e56e5d6",
   "lastOpenFiles": [
+    "Banco de Dados/Padrão Árvore.md",
     "Banco de Dados/MongoDB.md",
     "Banco de Dados/Commands.md",
     "Banco de Dados/NoSQL.md",
+    "Banco de Dados/Transações ACID.md",
     "Banco de Dados/Banco de Dados.md",
     "Software.md",
     "Sistemas Operacionais/Sistemas Operacionais.md",
@@ -177,8 +179,6 @@
     "Redes de Computadores/QUIC.md",
     "Redes de Computadores/UDP.md",
     "Redes de Computadores/TLS.md",
-    "Redes de Computadores/TCP.md",
-    "Redes de Computadores/HTTP.md",
     "Pasted image 20230418191808.png"
   ]
 }

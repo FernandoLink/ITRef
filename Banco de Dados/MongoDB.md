@@ -42,7 +42,17 @@ O BSON é uma extensão do formato JSON e suporta tipos de dados adicionais, com
 
 -   **$jsonSchema:** Valida documentos em relação ao esquema JSON fornecido. Diferentemente dos outros, este operador não é utilizado no momento de busca dos dados, mas, sim, na criação da coleção, para especificar as regras que os documentos devem corresponder.
 ***
- 
+ [[Transações ACID]]
+ ***
+ Os relacionamentos no MongoDB são entre os documentos e podemos classificá-los em três tipos:
+
+-   *um-para-um* com documentos incorporados;
+-   *um-para-muitos* com documentos incorporados; e
+-   *um-para-muitos* com referências de documentos.
+  ***
+  [[Padrão Árvore]]
+  ***
+   
 [[Commands]]
 
 ***
