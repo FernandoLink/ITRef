@@ -39,13 +39,55 @@ let collection = { $jsonSchema}
 db.collection.find(collection)
 db.clientes.find({$nor: [collection]})
 db.collection.renameCollection("colection")
+
 ****
-*Operadores de Comparação* - $eq $gt $gte $lt $lte $in
-*Operadores Lógicos* - $and $or $nor $not
-*Operadores de Elementos* - $exist $type
+- **Operadores de comparação:** retornam dados com base em comparações de valor ($eq $gt $gte $lt $lte $in).
+- **Operadores lógicos:** retornam dados com base em expressões avaliadas como verdadeiras ou falsas ($and $or $nor $not).
+- **Operadores de elemento:** retornam dados com base na existência de campo ou tipos de dados ($exist $type).
+- **Operadores de matriz:** retornam dados com base nas condições de uma matriz ($all $size $unwind $sortByCount $match $lookup, $unionWith).
+- **Operadores de projeção:** especificam os campos retornados por uma operação ($slice). 
+- **Operadores Aritméticos:** $rand $round $trunc $multiply $divide
+- **Operadores de String:** $concat $split $toLower $toUpper $toString
+- **Operadores de Data:** formato ano-mes-dia e fuso horário UTC. $year $month $dayOfWeek $dateToParts
+		Usamos o `ISODate()` quando queremos inserir datas ou data e hora.
+		O `new Date()` cumpre a mesma função, mas também fornece a data atual do sistema, basta passar o código desta forma: `new Date`.
+* **Operadores Acumuladores:** $avg $min $max $count $sum
+* **Operadores de Condicional:** $gte $ifNull $switch
+ ***
+-   **$group:** Agrupa dados com base em um id
+-   **$count:** Realiza a contagem de documentos existente em uma coleção
+-   **$limit:** Limita a saída de documentos em uma consulta
+-   **$sort:** Ordena o resultado de uma consulta de forma crescente ou decrescente
+-   **$skip:** Controla a saída inicial dos resultados de uma consulta
+-   **$unwind:** Desconstrói um campo de matriz em novos documentos
+-   **$match:** Filtra os documentos para retornar em uma consulta
+-   **$lookup:** Realiza uma junção entre dados de duas coleções
+***
+## Operadores de consulta de avaliação:
 
+Esses operadores retornam dados em uma consulta baseada em avaliações de campos individuais ou de toda a coleção.
 
+-   $expr - Permite o uso de expressões de agregação dentro da linguagem de consulta.
+-   $jsonSchema - Valida os documentos em relação ao esquema JSON fornecido.
+-   $mod - Executa uma operação de módulo no valor de um campo.
 
+## Operadores de consulta geoespacial:
+
+Os operadores geoespaciais permitem que seja realizado consultas baseadas em dados geográficos.
+
+-   $geoWithin: seleciona documentos dentro de um determinado polígono;
+-   $near: seleciona documentos baseados em pontos geoespaciais do mais próximo ao mais distante.
+
+## Operadores de consulta bit a bit:
+
+Os operadores de consulta bit a bit são utilizados para realizar operações com base nas condições de posição de um bit.
+
+-   $bitsAllClear: seleciona documentos onde todos os bits especificados são 0.
+-   $bitsAllSet: seleciona documentos onde todos os bits especificados são 1.
+-   $bitsAnyClear: seleciona documentos onde pelo menos um dos bits especificados é 0.
+-   $bitsAnySet: seleciona documentos onde pelo menos um dos bits especificados é 1.
+***
+*Cursor de Modificação* - .limit() .skip() .sort() count() .distinct() .aggregate()
 ***
 *Docker*
 

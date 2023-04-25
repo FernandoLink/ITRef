@@ -18,6 +18,7 @@ O BSON é um formato de serialização binária porque converte os dados em uma 
 O BSON é uma extensão do formato JSON e suporta tipos de dados adicionais, como BinData (dados binários), Date (data e hora), ObjectId (ID exclusivo do MongoDB), Regular Expression (expressão regular), e outros tipos de dados específicos do MongoDB. O BSON é mais compacto que o JSON, o que torna a transmissão de dados mais rápida e consome menos recursos de armazenamento.
 ***
 **Observações**
+* É case sensitive.
 * Os nomes de banco de dados não podem conter o caractere nulo.
 * Os nomes de banco de dados não pode estar vazios e devem ter menos de 64 caracteres.
 * Os nomes das coleções devem começar com um sublinhado ou um caractere de letra.
