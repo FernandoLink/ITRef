@@ -43,6 +43,7 @@ db.collection.findAndModify()
 db.collection.findOneAndUpdate()
 db.collection.findOneAndReplace()
 db.collection.findOneAndDelete()
+db.alunos.createIndex({localizacao : "2dsphere"})
 
 ****
 - **Operadores de comparação:** retornam dados com base em comparações de valor ($eq $gt $gte $lt $lte $in).
