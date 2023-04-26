@@ -39,6 +39,10 @@ let collection = { $jsonSchema}
 db.collection.find(collection)
 db.clientes.find({$nor: [collection]})
 db.collection.renameCollection("colection")
+db.collection.findAndModify()
+db.collection.findOneAndUpdate()
+db.collection.findOneAndReplace()
+db.collection.findOneAndDelete()
 
 ****
 - **Operadores de comparação:** retornam dados com base em comparações de valor ($eq $gt $gte $lt $lte $in).
