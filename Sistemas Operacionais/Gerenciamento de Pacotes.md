@@ -1,5 +1,5 @@
 
-* APT
+* [[APT (Advanced Packaging Tool)]]
 * YUM
 * DNF
 * Flatpak

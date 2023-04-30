@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco de Dados/Commands.md",
+                "file": "Sistemas Operacionais/Commandos.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Banco de Dados/Commands.md",
+                "file": "Sistemas Operacionais/Commandos.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -57,7 +57,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6024013357399018,
+                  "scale": 0.42967809143425817,
                   "close": true
                 }
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/Commands.md",
+                "file": "Sistemas Operacionais/Commandos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,13 +153,21 @@
   },
   "active": "6c8ce4679e56e5d6",
   "lastOpenFiles": [
-    "Banco de Dados/MongoDB.md",
+    "Sistemas Operacionais/Linux.md",
+    "Sistemas Operacionais/Estrutura de Diretórios.md",
+    "Sistemas Operacionais/Commandos.md",
+    "Redes de Computadores/SSH (Security Shell).md",
+    "Redes de Computadores/Protocolos.md",
+    "Sistemas Operacionais/APT (Advanced Packaging Tool).md",
+    "Sistemas Operacionais/Gerenciamento de Pacotes.md",
     "Banco de Dados/Commands.md",
+    "Banco de Dados/MongoDB.md",
+    "Utilitários/Docker.md",
+    "Utilitários/docker-compose.md",
     "Banco de Dados/NoSQL.md",
     "Banco de Dados/Banco de Dados.md",
     "Software.md",
     "Redes de Computadores/Redes de Computadores.md",
-    "Redes de Computadores/Protocolos.md",
     "Redes de Computadores/HTTP.md",
     "IT.md",
     "Redes de Computadores/WWW.md",
@@ -171,14 +179,6 @@
     "Programação/Linguagens.md",
     "Programação/Java.md",
     "Banco de Dados/SQL.md",
-    "Banco de Dados/SQLite.md",
-    "Banco de Dados/PostgreSQL.md",
-    "Banco de Dados/Oracle.md",
-    "Banco de Dados/PL-SQL.md",
-    "Banco de Dados/SQLPlus.md",
-    "Programação/Domain-Driven Design.md",
-    "Programação/Design Patterns.md",
-    "Redes de Computadores/HTTP2.md",
     "Pasted image 20230418191808.png"
   ]
 }

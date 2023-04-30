@@ -7,6 +7,11 @@
 | logout | encerra de uma vez a sessão do usuário      | 
 | ctrl+d | funciona como o logout      | 
 | logout | encerra de uma vez a sessão do usuário      | 
+|hostname|mostra o hostname|
+|uname -a|mostra todas as informações do sistema|
+|whoami| mostra usuário conectado|
+|ps -p \$\$|tipo de shell|
+
 
 ##### ARQUIVOS E DIRETÓRIOS
 ***
@@ -15,6 +20,7 @@
 |:------------|-----------|
 | pwd| exibe o nome do diretório corrente|
 |cd              | navegando entre diretórios|
+|cd - | navegando para o diretório anterior|
 |ls               | listar arquivos|
 |cp               | cópia de arquivos|
 |mv               | move arquivos e diretórios|
@@ -34,6 +40,7 @@
 |~ (til)        | diretório home do usuário|
 |/ (barra)      | diretório raiz|
 |- (hífen)       |último diretório|
+|touch| cria arquivo|
 
 ##### HELP
 ***
