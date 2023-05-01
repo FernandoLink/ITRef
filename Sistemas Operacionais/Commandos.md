@@ -1,4 +1,4 @@
-
+***
 ##### SISTEMA
 ***
 
@@ -11,7 +11,12 @@
 |uname -a|mostra todas as informações do sistema|
 |whoami| mostra usuário conectado|
 |ps -p \$\$|tipo de shell|
-
+|lshw| informações hardware|
+|free| memória|
+|cpu-info| cpu|
+|df| filesystem disk|
+|du| file space usage|
+| dmesg| log do kernel|
 
 ##### ARQUIVOS E DIRETÓRIOS
 ***
@@ -41,6 +46,9 @@
 |/ (barra)      | diretório raiz|
 |- (hífen)       |último diretório|
 |touch| cria arquivo|
+| more| paginar|
+|less| paginar mas pode andar com as setas|
+| cut| extrai pedaço da linha do arquivo|
 
 ##### HELP
 ***
@@ -89,6 +97,12 @@
 |finger | exibe informações mais detalhadas sobre os usuários
 |chfn   | permite que o usuário altere as suas informações do finger
 |groups | informa os grupos aos quais o usuário pertence
+| groupadd| adicionar grupo
+|useradd| adicionar vários usuários
+|adduser| adicionar usuário único
+|userdel| deletar usuário (-r)
+| usermod| modifica a conta do usuário
+| groupdel| deletar grupo
 
 ###### DATA E HORA
 ***
@@ -115,12 +129,14 @@
 
 | comando | descrição |
 |:-----|------|
-| ps | mostra status dos processos em execução|
-|kill  | envia sinal a processo
-|jobs  | lista processos em background e suspensos
-|bg    | passa processo para background
-|fg    | traz processo para foreground
-|Nohup | executa processo independente de terminal
+| [[ps]] | mostra status dos processos em execução|
+|kill  | envia sinal a processo|
+|jobs  | lista processos em background e suspensos|
+|bg    | passa processo para background|
+|fg    | traz processo para foreground|
+|Nohup | executa processo independente de terminal|
+|top|processos rodando|
+|htop|processos rodando|
 
 ##### AGENDAR TAREFAS
 ***
@@ -142,6 +158,8 @@
 |unset| apaga uma variável de ambiente da memória|
 |printenv| imprime as variáveis de ambiente|
 |export| exporta as variáveis criadas para todos os processos filhos do shell|
+|env| variáveis de ambiente|
+
 
 
 
