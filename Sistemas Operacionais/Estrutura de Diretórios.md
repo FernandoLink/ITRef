@@ -1,7 +1,8 @@
 
 ##### ESTRUTURA DE DIRETÓRIOS DO LINUX
 ***
-FHS (Filesystem Hierarchy Standard)
+[FHS (Filesystem Hierarchy Standard)](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
+
 | diretório | conteúdo |
 |---|---|
 |/bin | utilitários principais do linux
