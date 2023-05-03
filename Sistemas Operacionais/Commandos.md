@@ -39,7 +39,6 @@
 |basename        | devolve o nome de um arquivo recebendo o caminho completo|
 |dirname          | devolve o nome do diretório recebendo o caminho completo|
 |dir              | lista o contéudo do diretório|
-|which| localiza um comando|
 |. (ponto)| diretório atual|
 |.. (dois pontos) | diretório anterior|
 |~ (til)        | diretório home do usuário|
@@ -49,6 +48,10 @@
 | more| paginar|
 |less| paginar mas pode andar com as setas|
 | cut| extrai pedaço da linha do arquivo|
+| type | perguntar tipo do comando `type -a pwd`|
+|locate| acho arquivos `locate -e mostra`|
+|updatedb| atualiza o database do locate, tem que rodar como root
+
 
 ##### HELP
 ***
@@ -57,12 +60,14 @@
 |:----|---|
 | --help | mostra a ajuda do comando |
 | help | mostra informações gerais sobre os built-ins do shell |
-| man | mais completa documentação do Linux |
+| man | mais completa documentação do Linux `man -k ascii` |
 | h  | mostra a ajuda do man|
 | apropos or man -k | mostra informações sobre um tópico|
 | whatis | obtém uma breve descrição de um comando do sistema|
 | --version | mostra a versão do comando|
 | --usage | ajuda curta do comando (não são todos os comandos)|
+|whereis| localiza aonde estão binários, fontes e man|
+|which| localiza um comando `which -a pwd`|
 
 ##### FILTROS
 ***
@@ -134,7 +139,7 @@
 |jobs  | lista processos em background e suspensos|
 |bg    | passa processo para background|
 |fg    | traz processo para foreground|
-|Nohup | executa processo independente de terminal|
+|nohup | executa processo independente de terminal|
 |top|processos rodando|
 |htop|processos rodando|
 
@@ -154,11 +159,40 @@
 |comando|descrição|
 |--|--|
 |[[echo]]| mostra linha de texto|
-|set| informa uma lista de todas as variáveis locais, variável de ambiente e funções do shell|
+|set| informa uma lista de todas as variáveis locais, variável de ambiente e funções do shell `set -o emacs` `set -o vi`|
 |unset| apaga uma variável de ambiente da memória|
 |printenv| imprime as variáveis de ambiente|
 |export| exporta as variáveis criadas para todos os processos filhos do shell|
 |env| variáveis de ambiente|
+|echo $HOME| diretório do usuário|
+|echo $LOGNAME| login name|
+|echo $UID| user identification|
+|echo $EDITOR| editor padrão|
+|echo $PS1|definição do prompt |
+|echo $PS2|definição do prompt secundário|
+|bash| executar um script|
+|history|histórico|
+|echo $HISTFILE| aonde está gravando o histórico|
+| echo $PATH| caminho dos executáveis|
+| hash| lembrar ou mostrar a localização dos programas|
+|builtin| executa shell builtins |
+|echo $?| resultado do último comando executado|
+| echo $MANPATH| aonde procurar os manuais ou /etc/manpath.config|
+|manpath| path do man|
+|groff| converte o man|
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

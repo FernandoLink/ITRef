@@ -1,4 +1,6 @@
 * [[Commandos]]
+* [[Globbing]]
+* [[Quoting]]
 * [[Shell Script]]
 * [[Estrutura de Diretórios]]
 * [[Interface Gráfica]]
