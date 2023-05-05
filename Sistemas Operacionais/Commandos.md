@@ -27,11 +27,11 @@
 |cd              | navegando entre diretórios|
 |cd - | navegando para o diretório anterior|
 |ls               | listar arquivos|
-|cp               | cópia de arquivos|
+|[[cp]]               | cópia de arquivos|
 |mv               | move arquivos e diretórios|
 |ln               | estabelece ligação entre arquivos|
-|mkdir            | cria um diretório|
-|rmdir            | remove um diretório vazio|
+|mkdir            | cria um diretório `mkdir -pv d{1,2,3}/c{1,2,3}`|
+|rmdir            | remove um diretório vazio `rmdir -pv d{1,2,3}/c{1,2,3}`|
 |rm               | apaga arquivos e diretórios|
 |file            | indicando tipo de arquivo|
 |[[grep]]             | localizar cadeira de caracteres em uma entrada definida|
@@ -44,8 +44,8 @@
 |~ (til)        | diretório home do usuário|
 |/ (barra)      | diretório raiz|
 |- (hífen)       |último diretório|
-|touch| cria arquivo|
-| more| paginar|
+|touch| cria arquivo/diretório ou muda a data de criação caso já exista|
+| more| paginar - ! roda um comando - v abre o vi|
 |less| paginar mas pode andar com as setas|
 | cut| extrai pedaço da linha do arquivo|
 | type | perguntar tipo do comando `type -a pwd`|
