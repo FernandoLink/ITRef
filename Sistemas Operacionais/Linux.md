@@ -2,6 +2,7 @@
 * [[Aplicativos]]
 * [[Globbing]]
 * [[Quoting]]
+* [[Saídas]]
 * [[Shell Script]]
 * [[Estrutura de Diretórios]]
 * [[Interface Gráfica]]

@@ -1,4 +1,4 @@
-
+***
 ##### cut - cortar cadeias de caracteres
 ***
 
@@ -15,5 +15,10 @@
 |cut -d\<c\>| qual será o separador de campos do arquivo|
 
 
-Observação: Se não informado o delimitador <TAB> é o default.
+Observação: Se não informado o delimitador \<TAB\> é o default.
+
+`cut -c 1-4,15-20 --output-delimiter=";"`
+
+`cut -f 1,5 -d: /etc/passwd`
+
 

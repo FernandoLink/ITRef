@@ -47,10 +47,12 @@
 |touch| cria arquivo/diretório ou muda a data de criação caso já exista|
 | more| paginar - ! roda um comando - v abre o vi|
 |less| paginar mas pode andar com as setas|
-| cut| extrai pedaço da linha do arquivo|
+| [[cut]]| extrai pedaço da linha do arquivo|
+|[[paste]]| merge linhas de arquivos|
 | type | perguntar tipo do comando `type -a pwd`|
 |locate| acho arquivos `locate -e mostra`|
-|updatedb| atualiza o database do locate, tem que rodar como root
+|updatedb| atualiza o database do locate, tem que rodar como root|
+|uniq| remove as linhas repetidas em sequencia|
 
 
 ##### HELP
@@ -76,7 +78,7 @@
 |:----|---|
 | cat | exibe conteúdo de arquivos |
 | wc | conta caracteres, palavras e/ou linhas de arquivos
-| sort | ordena o conteúdo de arquivos
+| [[sort]] | ordena o conteúdo de arquivos
 | head | exibe o início dos arquivos
 | tail | exibe o final dos arquivos
 

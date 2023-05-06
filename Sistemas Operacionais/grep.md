@@ -24,7 +24,10 @@ O rapidinho da família, seu uso é indicado para critérios de pesquisa que nã
 |grep -i| case insensitive|
 | grep -r| recursivo|
 | grep -E | expressão regular|
+|grep -n| qual linha aparece a palavra|
 
+
+`grep '[[:digit:]]\+[,\.]\?[[:digit:]]*' *
 
 
 

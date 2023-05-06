@@ -161,11 +161,18 @@
   },
   "active": "6c8ce4679e56e5d6",
   "lastOpenFiles": [
+    "Sistemas Operacionais/grep.md",
+    "Sistemas Operacionais/Commandos.md",
     "Sistemas Operacionais/Linux.md",
+    "Utilitários/Resumão.md",
+    "Utilitários/Expressões Regulares.md",
+    "Sistemas Operacionais/sort.md",
+    "Sistemas Operacionais/paste.md",
+    "Sistemas Operacionais/cut.md",
+    "Sistemas Operacionais/Saídas.md",
     "Sistemas Operacionais/Aplicativos.md",
     "zip/zip-unzip.md",
     "zip",
-    "Sistemas Operacionais/Commandos.md",
     "Sistemas Operacionais/find.md",
     "Sistemas Operacionais/bzip2-bunzip2.md",
     "Sistemas Operacionais/bzip2.md",
@@ -182,13 +189,6 @@
     "Sistemas Operacionais/echo.md",
     "Sistemas Operacionais/Gerenciamento de Pacotes.md",
     "Sistemas Operacionais/RPM (RPM Package Manager).md",
-    "Sistemas Operacionais/APT (Advanced Packaging Tool).md",
-    "Sistemas Operacionais/Gerenciamento de Redes.md",
-    "Sistemas Operacionais/Gerenciamento de Serviço.md",
-    "Sistemas Operacionais/Sistema de Armazenamento.md",
-    "Sistemas Operacionais/Gerenciamento de Usuários.md",
-    "Sistemas Operacionais/Logs do Sistema.md",
-    "Sistemas Operacionais/Sistema de Inicialização.md",
     "Pasted image 20230418191808.png"
   ]
 }
