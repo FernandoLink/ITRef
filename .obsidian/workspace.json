@@ -57,7 +57,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.42967809143425817,
+                  "scale": 0.6024013357399057,
                   "close": true
                 }
               }
@@ -161,9 +161,11 @@
   },
   "active": "6c8ce4679e56e5d6",
   "lastOpenFiles": [
-    "Sistemas Operacionais/grep.md",
-    "Sistemas Operacionais/Commandos.md",
     "Sistemas Operacionais/Linux.md",
+    "Sistemas Operacionais/Gerenciamento de Pacotes.md",
+    "Sistemas Operacionais/Gerenciamento de Serviço.md",
+    "Sistemas Operacionais/Commandos.md",
+    "Sistemas Operacionais/grep.md",
     "Utilitários/Resumão.md",
     "Utilitários/Expressões Regulares.md",
     "Sistemas Operacionais/sort.md",
@@ -187,8 +189,6 @@
     "Sistemas Operacionais/Globbing.md",
     "Programação/Set.md",
     "Sistemas Operacionais/echo.md",
-    "Sistemas Operacionais/Gerenciamento de Pacotes.md",
-    "Sistemas Operacionais/RPM (RPM Package Manager).md",
     "Pasted image 20230418191808.png"
   ]
 }

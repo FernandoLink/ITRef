@@ -137,13 +137,16 @@
 | comando | descrição |
 |:-----|------|
 | [[ps]] | mostra status dos processos em execução|
+|pstree| ps no formato de árvore|
 |kill  | envia sinal a processo|
+|killall| mata todos os processos com o nome tal|
 |jobs  | lista processos em background e suspensos|
 |bg    | passa processo para background|
 |fg    | traz processo para foreground|
 |nohup | executa processo independente de terminal|
-|top|processos rodando|
+|top|processos rodando, top -u link|
 |htop|processos rodando|
+|&| joga diretamente para background|
 
 ##### AGENDAR TAREFAS
 ***
@@ -184,7 +187,11 @@
 |groff| converte o man|
 
 
-
+-   *"Ctrl+C"*: interrompe a execução do comando atualmente em execução no terminal. Isso é útil se você precisar parar um processo que esteja em execução, como um script que esteja demorando muito para executar. Ao pressionar "Ctrl+C", o processo é encerrado e você retorna ao prompt do terminal.
+    
+-  *"Ctrl+D"*: envia o caractere EOF (end-of-file) para o processo em execução. Se você estiver executando um comando que espera entrada de dados do usuário, como o comando "cat", pressionar "Ctrl+D" indicará ao comando que não há mais dados para ler e ele encerrará a execução.
+    
+-   *"Ctrl+Z"*: suspende o processo em execução no terminal. Isso é útil se você precisar interromper temporariamente um processo para executar outro processo e, em seguida, retornar ao processo original. Ao pressionar "Ctrl+Z", o processo é suspenso e você retorna ao prompt do terminal. Você pode retomar a execução do processo em segundo plano usando o comando "bg" (execução em segundo plano) ou "fg" (execução em primeiro plano).
 
 
 
