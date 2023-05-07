@@ -17,6 +17,9 @@
 |/usr/spool | áreas de spool
 |/dev | arquivos especiais de dispositivo
 |/usr/share/docs| documentações
+|/etc/init.d| diretório com os arquivos de inicialização do sistema
+|/etc/passwd | usuário do sistema
+
 
 
 

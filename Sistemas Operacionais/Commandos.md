@@ -110,6 +110,8 @@
 |userdel| deletar usuário (-r)
 | usermod| modifica a conta do usuário
 | groupdel| deletar grupo
+|sudo| executa comando como root
+
 
 ###### DATA E HORA
 ***
@@ -147,6 +149,8 @@
 |top|processos rodando, top -u link|
 |htop|processos rodando|
 |&| joga diretamente para background|
+|sh| interpretador de comandos|
+
 
 ##### AGENDAR TAREFAS
 ***

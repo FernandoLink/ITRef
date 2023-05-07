@@ -2,7 +2,7 @@
 | comando | descrição |
 |:----|----|
 |\#      | comentário
-|#!     | entende que é o caminho (path) para o interpretador que será usado por este |script (ex. #!/bin/bash);
+|#!     | entende que é o caminho (path) para o interpretador que será usado por este script (ex. #!/bin/bash); shebangs
 | echo  | mostra a linha de texto
 |\      | ignora um e somente um caracter que segue a barra invertida
 |'      | todos os caracteres entre apóstrofos são ignorados
