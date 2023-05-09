@@ -17,6 +17,10 @@
 |df| filesystem disk|
 |du| file space usage|
 | dmesg| log do kernel|
+|uptime| quanto tempo o sistema está rodando|
+|timedatectl| definir data e hora do sistema|
+
+
 
 ##### ARQUIVOS E DIRETÓRIOS
 ***
@@ -53,6 +57,11 @@
 |locate| acho arquivos `locate -e mostra`|
 |updatedb| atualiza o database do locate, tem que rodar como root|
 |uniq| remove as linhas repetidas em sequencia|
+|lsblk| list block devices|
+|fdisk| criar partições /dev/sdb /dev/sda|
+|mkfs| formatar disk|
+|mount| montar o filesystem|
+|umount| desmontar o filesystem|
 
 
 ##### HELP

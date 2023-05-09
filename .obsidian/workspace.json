@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Operacionais/Shell Script.md",
+                "file": "Sistemas Operacionais/Gerenciamento de Redes.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sistemas Operacionais/Shell Script.md",
+                "file": "Sistemas Operacionais/Gerenciamento de Redes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operacionais/Shell Script.md",
+                "file": "Sistemas Operacionais/Gerenciamento de Redes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,11 +162,17 @@
   "active": "6c8ce4679e56e5d6",
   "lastOpenFiles": [
     "Sistemas Operacionais/Linux.md",
+    "Sistemas Operacionais/Commandos.md",
+    "Sistemas Operacionais/Estrutura de Diretórios.md",
+    "Softwares/Softwares.md",
+    "Softwares/VIM.md",
+    "Utilitários/Utilitários.md",
+    "Software.md",
+    "Sistemas Operacionais/Sistemas Operacionais.md",
+    "Sistemas Operacionais/Shell Script.md",
     "Sistemas Operacionais/Aplicativos.md",
     "Sistemas Operacionais/scp.md",
     "Sistemas Operacionais/instalação de código fonte.md",
-    "Sistemas Operacionais/Estrutura de Diretórios.md",
-    "Sistemas Operacionais/Commandos.md",
     "Sistemas Operacionais/Gerenciamento de Pacotes.md",
     "Sistemas Operacionais/Gerenciamento de Serviço.md",
     "Sistemas Operacionais/grep.md",
@@ -182,13 +188,7 @@
     "Sistemas Operacionais/bzip2-bunzip2.md",
     "Sistemas Operacionais/bzip2.md",
     "gzip/gzip-gunzip.md",
-    "Sistemas Operacionais/tar.md",
     "gzip",
-    "Sistemas Operacionais/gzip.md",
-    "Sistemas Operacionais/cp.md",
-    "Sistemas Operacionais/Shell Script.md",
-    "Sistemas Operacionais/Quoting.md",
-    "Sistemas Operacionais/Globbing.md",
     "Pasted image 20230418191808.png"
   ]
 }

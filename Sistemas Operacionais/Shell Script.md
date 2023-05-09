@@ -1,13 +1,16 @@
+***
 
 | comando | descrição |
 |:----|----|
 |\#      | comentário
-|#!     | entende que é o caminho (path) para o interpretador que será usado por este script (ex. #!/bin/bash); shebangs
+|#!     | entende que é o caminho (path) para o interpretador que será usado por este script (ex. #!/bin/bash); shebang
 | echo  | mostra a linha de texto
 |\      | ignora um e somente um caracter que segue a barra invertida
 |'      | todos os caracteres entre apóstrofos são ignorados
 |"      | entre aspas o shell ignora o seu significado
 |\`      | são usadas para avisarmos ao shell que o que está entre elas é um comando
+|$()| mesmo coisa que o \`
+|${}|pega variável de ambiente
 |stdin  | entrada padrão, normalmente teclado
 |stdout | saída padrão, normalmente terminal
 |\>      | redireciona a saída de uma comando para um especificado
@@ -30,6 +33,9 @@
 | [[xargs]]| controi listas de parâmetros e passa para a execução de outros programas|
 | [[if]] | instrução condicional|
 | [[test]]| usado para testar condições|
+| bash| no shell filho|
+|source| no shell atual, ponto espaço tem a mesma função do source (. )|
+
 
 
 ##### VARIÁVEL
