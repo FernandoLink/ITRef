@@ -1,7 +1,6 @@
 ***
 ##### SISTEMA
 ***
-
 |comando| descrição|
 |:-----------|-----------|
 | logout | encerra de uma vez a sessão do usuário      | 
@@ -20,11 +19,8 @@
 |uptime| quanto tempo o sistema está rodando|
 |timedatectl| definir data e hora do sistema|
 
-
-
 ##### ARQUIVOS E DIRETÓRIOS
 ***
-
 | comando | descrição |
 |:------------|-----------|
 | pwd| exibe o nome do diretório corrente|
@@ -63,10 +59,8 @@
 |mount| montar o filesystem|
 |umount| desmontar o filesystem|
 
-
 ##### HELP
 ***
-
 |comando|descrição|
 |:----|---|
 | --help | mostra a ajuda do comando |
@@ -82,7 +76,6 @@
 
 ##### FILTROS
 ***
-
 |comando|descrição|
 |:----|---|
 | cat | exibe conteúdo de arquivos |
@@ -93,11 +86,10 @@
 
 ##### SEGURANÇA
 ***
-
 | comando | descrição |
 |:-------|--------|
-|passwd | altera a senha do usuário;                                  |
-|chown| troca o dono do arquivo;
+|chmod| muda permissões do arquivo (+/-t sticky bit) (+/-s permissão de execução do usuário root)
+|chown| troca o dono do arquivo
 |chgrp | troca o grupo do arquivo
 |dono(u) | o usuário dono do grupo
 |group(g) | o grupo a que pertence o arquivo
@@ -105,7 +97,6 @@
 
 ##### USUÁRIOS
 ***
-
 | comando | descrição |
 |:------|-------|
 |who    | exibe informações sobre usuários ativos e alguns dados do sistema
@@ -114,17 +105,23 @@
 |chfn   | permite que o usuário altere as suas informações do finger
 |groups | informa os grupos aos quais o usuário pertence
 | groupadd| adicionar grupo
+| groupdel| deletar grupo
+| groupmod| modificar grupo
 |useradd| adicionar vários usuários
+|userdel| remover usuário
 |adduser| adicionar usuário único
 |userdel| deletar usuário (-r)
 | usermod| modifica a conta do usuário
-| groupdel| deletar grupo
-|sudo| executa comando como root
-
+|sudo| executa comando como root `sudo -i` `sudo su -`
+|passwd | altera a senha do usuário
+|vipw| editar o /etc/passwd e o /etc/shadow
+|w| mostra quem está logado e o que está fazendo
+| su | trocar de usuário
+|last| mostra uma lista com os últimos usuários logados
+|newgrp| muda o grupo principal
 
 ###### DATA E HORA
 ***
-
 | comando | descrição |
 |:----|----|
 |date | mostra e acerta data/hora
@@ -132,7 +129,6 @@
 
 ##### BACKUP
 ***
-
 |comando|descrição|
 |:-----|------|
 |tar        | para agrupar vários arquivos em somente um|
@@ -144,7 +140,6 @@
 
 ##### CONTROLE DE EXECUÇÃO
 ***
-
 | comando | descrição |
 |:-----|------|
 | [[ps]] | mostra status dos processos em execução|
@@ -160,10 +155,8 @@
 |&| joga diretamente para background|
 |sh| interpretador de comandos|
 
-
 ##### AGENDAR TAREFAS
 ***
-
 | comando | descrição |
 |:-----|-----|
 |crontab | instalar, desinstalar ou listar as tabelas usadas pelo programa cron
@@ -173,7 +166,6 @@
 
 ##### AMBIENTE
 ***
-
 |comando|descrição|
 |--|--|
 |[[echo]]| mostra linha de texto|
