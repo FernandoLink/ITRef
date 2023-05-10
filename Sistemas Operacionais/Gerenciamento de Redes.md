@@ -10,6 +10,7 @@ Um servidor DHCP (Dynamic Host Configuration Protocol) é um tipo de servidor qu
 
 * [Postfix](http://www.postfix.org/) - servidor de email
 * OpenLDAP - servidor LDAP
+* TLS (Transport Layer Security) seria um protocolo de criptografia utilizado para segurança da informação. Ele seria a evolução do protocolo SSL (Secure Sockets Layer).
 
 |Comando|Descrição|
 |---|---|
@@ -21,6 +22,7 @@ Um servidor DHCP (Dynamic Host Configuration Protocol) é um tipo de servidor qu
 |route| configurar ou visualizar rotas|
 |ip| substitui o ifconfig e o route `ip addr show` `ip route show`|
 |netstat| imprime conexões de rede|
+|nslookup| verificar traduções de nome de domínios e endereços IP
 
 
 
