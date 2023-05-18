@@ -23,6 +23,8 @@ Um servidor DHCP (Dynamic Host Configuration Protocol) é um tipo de servidor qu
 |ip| substitui o ifconfig e o route `ip addr show` `ip route show`|
 |netstat| imprime conexões de rede|
 |nslookup| verificar traduções de nome de domínios e endereços IP
+|traceroute| traça a rota de um pacote até o host
+
 
 
 
