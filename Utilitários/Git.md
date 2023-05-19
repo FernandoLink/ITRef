@@ -14,6 +14,14 @@
 |[[git log]]|Usado para visualizar o histórico de commits em um repositório Git.
 |[[git config]]|Usado para configurar ou exibir configurações do Git.
 |.gitignore|Usado para especificar quais arquivos e diretórios devem ser ignorados pelo Git ao rastrear alterações em um projeto.
+|git init --bare |Usado para criar um repositório Git vazio sem um diretório de trabalho. Ao contrário de um repositório Git regular, um repositório bare não contém uma cópia do código-fonte e é geralmente usado como um repositório central para compartilhar código entre vários desenvolvedores.
+|[[git remote]]|Usado para gerenciar os repositórios remotos associados a um repositório Git local. Os repositórios remotos são versões do seu projeto que estão hospedadas em servidores externos ou em outros diretórios do sistema.
+|[[git clone]] |Usado para criar uma cópia local de um repositório Git remoto. Ele baixa todo o histórico de commits, ramificações e arquivos do repositório remoto e cria uma cópia em seu ambiente local.
+|[[git push]]|Usado para enviar as alterações locais de um repositório Git para um repositório remoto. Ele atualiza o histórico de commits do repositório remoto com os commits feitos localmente.
+|[[git pull]]|Usado para atualizar o repositório local com as alterações mais recentes do repositório remoto. Ele busca as alterações do repositório remoto e as mescla automaticamente com o branch atual do repositório local.
+|git branch|Usado para listar, criar e gerenciar branches (ramificações) em um repositório Git.
+|[[git checkout]]|Usado para alternar entre branches (ramificações) existentes ou criar uma nova branch em um repositório Git
+
 
 
 
