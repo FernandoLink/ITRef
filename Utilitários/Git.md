@@ -25,6 +25,7 @@
 |git rebase|Usado para reaplicar commits de uma branch em cima de outra branch.
 |[[git reset]]|Usado para desefazer commits, mover o branch atual para um commit específico ou desfazer alterações em arquivos.
 |git revert|Usado para desfazer commits anteriores, criando um novo commit que reverte as alterações introduzidas por um commit específico. Ao contrário do comando `git reset`, que reescreve o histórico de commits, o `git revert` cria um novo commit que desfaz as alterações do commit original.
+|git restore|Usado no Git para descartar alterações em arquivos ou restaurar arquivos para um determinado estado. Ele permite desfazer modificações em arquivos não confirmados ou restaurar arquivos para uma versão específica.
 |[[git stash]]|Usado para salvar temporariamente as alterações não confirmadas em uma área de armazenamento chamada "stash" e limpar o diretório de trabalho para que você possa alternar para outro branch ou aplicar outras alterações.
 |[[git diff]]|Usado para exibir as diferenças entre commits, entre o diretório de trabalho e o índice (staging area), ou entre o diretório de trabalho e um commit específico.
 |[[git tag]]|É uma referência a um commit específico em um repositório. As tags são usadas para marcar pontos importantes na linha do tempo do projeto, como versões de lançamento.
@@ -32,6 +33,7 @@
 |git show|Usado para exibir informações detalhadas sobre um determinado commit.
 |[[git bisect]]|Auxilia na localização de um commit específico que introduziu um bug ou causou um problema em seu código.
 |git blame|Usado para rastrear a autoria e a última modificação de cada linha de um arquivo.
+|git switch|Usado no Git para alternar entre ramos (branches) existentes ou criar e alternar para um novo ramo. Ele permite que você altere seu contexto de trabalho para outro ramo, onde você pode continuar seu trabalho ou visualizar o código em um ramo diferente.
 
 *Observação:* git comando --help 
 
