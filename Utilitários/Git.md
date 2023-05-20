@@ -21,6 +21,15 @@
 |[[git pull]]|Usado para atualizar o repositório local com as alterações mais recentes do repositório remoto. Ele busca as alterações do repositório remoto e as mescla automaticamente com o branch atual do repositório local.
 |git branch|Usado para listar, criar e gerenciar branches (ramificações) em um repositório Git.
 |[[git checkout]]|Usado para alternar entre branches (ramificações) existentes ou criar uma nova branch em um repositório Git
+|git merge|Utilizado para combinar alterações de um branch em outro.
+|git rebase|Usado para reaplicar commits de uma branch em cima de outra branch.
+|[[git reset]]|Usado para desefazer commits, mover o branch atual para um commit específico ou desfazer alterações em arquivos.
+|git revert|Usado para desfazer commits anteriores, criando um novo commit que reverte as alterações introduzidas por um commit específico. Ao contrário do comando `git reset`, que reescreve o histórico de commits, o `git revert` cria um novo commit que desfaz as alterações do commit original.
+|[[git stash]]|Usado para salvar temporariamente as alterações não confirmadas em uma área de armazenamento chamada "stash" e limpar o diretório de trabalho para que você possa alternar para outro branch ou aplicar outras alterações.
+|[[git diff]]|Usado para exibir as diferenças entre commits, entre o diretório de trabalho e o índice (staging area), ou entre o diretório de trabalho e um commit específico.
+|[[git tag]]|É uma referência a um commit específico em um repositório. As tags são usadas para marcar pontos importantes na linha do tempo do projeto, como versões de lançamento.
+
+
 
 
 
