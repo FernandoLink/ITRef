@@ -28,13 +28,35 @@
 |[[git stash]]|Usado para salvar temporariamente as alterações não confirmadas em uma área de armazenamento chamada "stash" e limpar o diretório de trabalho para que você possa alternar para outro branch ou aplicar outras alterações.
 |[[git diff]]|Usado para exibir as diferenças entre commits, entre o diretório de trabalho e o índice (staging area), ou entre o diretório de trabalho e um commit específico.
 |[[git tag]]|É uma referência a um commit específico em um repositório. As tags são usadas para marcar pontos importantes na linha do tempo do projeto, como versões de lançamento.
-
-
-
-
-
+|[[git cherry-pick]]|Usado para aplicar um commit específico de um ramo para outro. Ele permite selecionar um único commit e aplicar suas alterações no ramo atual, incorporando essas alterações ao histórico do ramo atual.
+|git show|Usado para exibir informações detalhadas sobre um determinado commit.
+|[[git bisect]]|Auxilia na localização de um commit específico que introduziu um bug ou causou um problema em seu código.
+|git blame|Usado para rastrear a autoria e a última modificação de cada linha de um arquivo.
 
 *Observação:* git comando --help 
 
+**Git Flow***
+***
+![[Pasted image 20230520164007.png]]
 
+**Hooks**
+***
+/.git/hooks -> É um diretório especial em um repositório Git que contém scripts de ganchos (hooks) personalizados. Os ganchos são scripts executados automaticamente pelo Git em momentos específicos do ciclo de vida do Git, como antes ou depois de certas ações, como commits, merges, push e outros eventos.
 
+-   [applypatch-msg](https://github.com/git/git/blob/master/templates/hooks--applypatch-msg.sample)
+-   [pre-applypatch](https://github.com/git/git/blob/master/templates/hooks--pre-applypatch.sample)
+-   [post-applypatch](https://www.git-scm.com/docs/githooks#_post_applypatch)
+-   [pre-commit](https://github.com/git/git/blob/master/templates/hooks--pre-commit.sample)
+-   [prepare-commit-msg](https://github.com/git/git/blob/master/templates/hooks--prepare-commit-msg.sample)
+-   [commit-msg](https://github.com/git/git/blob/master/templates/hooks--commit-msg.sample)
+-   [post-commit](https://www.git-scm.com/docs/githooks#_post_commit)
+-   [pre-rebase](https://github.com/git/git/blob/master/templates/hooks--pre-rebase.sample)
+-   [post-checkout](https://www.git-scm.com/docs/githooks#_post_checkout)
+-   [post-merge](https://www.git-scm.com/docs/githooks#_post_merge)
+-   [pre-receive](https://www.git-scm.com/docs/githooks#pre-receive)
+-   [update](https://github.com/git/git/blob/master/templates/hooks--update.sample)
+-   [post-receive](https://www.git-scm.com/docs/githooks#post-receive)
+-   [post-update](https://github.com/git/git/blob/master/templates/hooks--post-update.sample)
+-   [pre-auto-gc](https://www.git-scm.com/docs/githooks#_pre_auto_gc)
+-   [post-rewrite](https://www.git-scm.com/docs/githooks#_post_rewrite)
+-   [pre-push](https://www.git-scm.com/docs/githooks#_pre_push)
