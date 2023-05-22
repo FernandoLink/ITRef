@@ -15,9 +15,10 @@
 |cpu-info| cpu|
 |df| filesystem disk|
 |du| file space usage|
-| dmesg| log do kernel|
+|dmesg| log do kernel|
 |uptime| quanto tempo o sistema está rodando|
 |timedatectl| definir data e hora do sistema|
+|pidof|usado para obter os identificadores de processo de processos em execução com base em seus nomes de programa|
 
 ##### ARQUIVOS E DIRETÓRIOS
 ***

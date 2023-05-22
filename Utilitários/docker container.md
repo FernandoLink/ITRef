@@ -30,6 +30,8 @@
 |docker container update \<param\> \<container ID\>|Atualiza configuração do container|
 |docker container prune| Remove todos os containers parados|
 |docker container create --name \<nome\> | Criar container sem inicializá-lo|
+|docker info| Informações sobre o docker|
+
 
 
 

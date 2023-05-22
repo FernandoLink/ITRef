@@ -11,6 +11,8 @@
 |docker image rm \<repository\>:\<tag\> . | Remover a imagem|
 |docker image prune| Remover todas as imagens não usadas|
 |docker image tag \<image id\> \<user docker hub\>\/\<reporsitory\>:\<tag\>| Criar uma tag que refere-se a imagem de origem|
+|docker history| Visualizar as camadas da imagem|
+
 
 
 
