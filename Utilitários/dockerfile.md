@@ -17,6 +17,11 @@ Lista de instruções no Dockerfile:
 -   `VOLUME`
 -   `WORKDIR`
 -   `ONBUILD`
+-   `ARG`
+-   `ENTRYPOINT`
+-   `CMD`
+-   `VOLUME`
+-   `RUN`
 
 ***
 **Multi-stage builds** 
