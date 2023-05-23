@@ -14,6 +14,9 @@ Usar a rede host pode ser útil em alguns casos, como quando você precisa que o
 A rede **none** não vai ter nenhuma interface de rede, ele ficou isolado.
 
 ***
+A rede **macvlan** associar ao endereço mac.
+
+***
 *Resumindo*
 * A rede bridge é usada para comunicar containers em um mesmo host;
 	`docker network create --driver bridge <nome da network> `
