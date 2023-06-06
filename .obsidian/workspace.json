@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco de Dados/Banco de Dados.md",
+                "file": "Banco de Dados/dependências funcionais.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Banco de Dados/Banco de Dados.md",
+                "file": "Banco de Dados/dependências funcionais.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/Banco de Dados.md",
+                "file": "Banco de Dados/dependências funcionais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,13 +161,18 @@
   },
   "active": "6c8ce4679e56e5d6",
   "lastOpenFiles": [
+    "Banco de Dados/Modelagem de Dados.md",
+    "Banco de Dados/terceira forma normal.md",
+    "Banco de Dados/segunda forma normal.md",
+    "Banco de Dados/dependências funcionais.md",
+    "Banco de Dados/primeira forma normal.md",
+    "Banco de Dados/Banco de Dados.md",
     "Banco de Dados/SQL.md",
+    "Software.md",
     "Banco de Dados/Postgres.md",
     "Banco de Dados/PostgreSQL.md",
     "Banco de Dados/MongoDB.md",
     "Banco de Dados/NoSQL.md",
-    "Banco de Dados/Banco de Dados.md",
-    "Software.md",
     "Banco de Dados/SQLite.md",
     "Banco de Dados/Oracle.md",
     "Banco de Dados/SQLPlus.md",
@@ -182,11 +187,6 @@
     "Utilitários/docker volume.md",
     "Utilitários/Docker.md",
     "Utilitários/docker network.md",
-    "Utilitários/dockerfile.md",
-    "Sistemas Operacionais/Commandos.md",
-    "Sistemas Operacionais/Linux.md",
-    "Utilitários/docker container.md",
-    "Utilitários/docker image.md",
     "Pasted image 20230520164007.png",
     "zip",
     "gzip",
